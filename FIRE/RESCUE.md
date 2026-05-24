@@ -360,7 +360,7 @@ In incidentele Hazmat gestionate de [b]Division 2: HSOD - Hazmat, Special Operat
 [list=none]
 Rescue nu intra in hot zone fara:
 [list]
-[*]Calificarea [b]Hazmat Operations[/b] (TIER I, Division 2: HSOD).
+[*]Calificarea [b]Hazmat Technician[/b] (TIER II, Division 2: HSOD - Hazmat, Special Operations & Disaster Response). Calificarea [b]Hazmat Operations[/b] (TIER I) permite lucrul doar in Warm Zone, la Decon Corridor, nu in Hot Zone.
 [*]Echipament de protectie de nivel corespunzator (Level B/A suit), pus si verificat corect.
 [*]Coordonarea si aprobarea explicita din partea HSOD Coordinator sau Division Lead.
 [/list]

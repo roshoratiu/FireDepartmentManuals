@@ -315,11 +315,40 @@ Se utilizează "Plain English" (limbaj clar), fără coduri radio (10-codes), pe
 [/list]
 
 [b]19.06.02 Frecvențe[/b]
-Angajații trebuie să aibă radioul setat pe frecvențele corecte la începutul fiecărui [b]Shift[/b]:
+Angajații trebuie să aibă radioul setat pe frecvențele corecte la începutul fiecărui [b]Shift[/b]. Canalele departamentale sunt:
 [list]
-[*][b]Metropolitan Fire Communications (Dispatch):[/b] Canalul Principal.
-[*][b]TAC Channels:[/b] Pentru coordonare la scenă.
+[*][b]Stația 712 — Metropolitan Fire Communications (Dispatch / Canal Principal):[/b] Canalul de bază pe care se desfășoară toate comunicațiile cu [b]Dispatch[/b] și raportările generale ale scenei. Toate unitățile monitorizează 712 în permanență.
+[*][b]Stația 713 — IC1 / TAC1 (Tactic Channel 1):[/b] Canal tactic dedicat incidentelor active. Alocat de [b]Incident Commander[/b] când traficul radio pe 712 trebuie degrevat sau când un sector al incidentului necesită coordonare separată.
+[*][b]Stația 714 — IC2 / TAC2 (Tactic Channel 2):[/b] Canal tactic secundar, folosit la incidente simultane sau la sectorizarea unui incident major cu mai multe zone de operare. Echipajele de pe 714 raportează periodic pe 712 prin IC sau prin [b]Operations Coordinator[/b].
 [/list]
+
+[b]19.06.03 Format de Comunicare Radio[/b]
+Toate transmisiile radio respectă un format standardizat pentru claritate și identificare rapidă. [b]Nu se folosesc prescurtări, coduri informale sau argou[/b].
+
+[b]Format general (transmisie de raport sau anunț):[/b]
+[list=none]
+[i]"[Rank] [Prenume] [Nume], [mesaj]."[/i]
+
+Exemple:
+[list]
+[*][i]"Lieutenant Maria Ionescu, Engine 7 on scene at [locație], two-story structure with smoke showing, assuming Command."[/i]
+[*][i]"Firefighter Dan Popescu, primary search complete, no victims found, floor two clear."[/i]
+[*][i]"Engineer Alex Dumitrescu, water supply established from hydrant at [locație], pump pressures nominal."[/i]
+[/list]
+[/list]
+
+[b]Format cu destinatar (cerere directă sau raport adresat):[/b]
+[list=none]
+[i]"[Rank] [Prenume] [Nume] towards [Rank] [Prenume] [Nume], [mesaj]."[/i]
+
+Exemple:
+[list]
+[*][i]"Firefighter Radu Marin towards Lieutenant Maria Ionescu, victim located room 204, requesting EMS to second floor."[/i]
+[*][i]"Captain George Stancu towards Battalion Chief Ana Popa, requesting two additional Engines and a Truck for exposure protection."[/i]
+[/list]
+[/list]
+
+[b]Notă:[/b] Destinatarul confirmă recepția înainte de a răspunde: [i]"[Rank] [Prenume] [Nume], copy."[/i] Dacă nu există confirmare în 15-20 de secunde, transmisia se repetă.
 
 [size=130][b]19.07 Asignări Radio[/b][/size]
 [list]
@@ -329,13 +358,27 @@ Angajații trebuie să aibă radioul setat pe frecvențele corecte la începutul
 [*][b]Engine (E##):[/b] Unități de stingere primare.
 [/list]
 
-[size=130][b]19.08 Terminologie[/b][/size]
+[size=130][b]19.08 Terminologie și Coduri de Răspuns[/b][/size]
+
+[b]Coduri de răspuns:[/b] Codurile indică modul și urgența deplasării unui echipaj. Dispatch le anunță la alocarea apelului; IC le poate modifica pe parcursul intervenției.
 [list]
-[*][b]Code 1:[/b] Răspuns non-emergent (fără lumini/sirene).
-[*][b]Code 2:[/b] Răspuns urgent, doar lumini (folosit rar).
-[*][b]Code 3:[/b] Răspuns urgent, lumini și sirene.
-[*][b]MCI (Mass Casualty Incident):[/b] Incident cu victime multiple.
-[*][b]Priority Traffic:[/b] Mesaj urgent care necesită liniște pe frecvență.
+[*][b]Code 0 — Emergency Traffic / Canal Liber:[/b] Declarat exclusiv de [b]Incident Commander[/b] sau de [b]Dispatch[/b]. Toate transmisiile de pe canal se opresc imediat; se acordă prioritate absolută traficului de urgență. Se folosește la [b]Mayday[/b], [b]Firefighter Down[/b] sau orice situație care pune în pericol imediat viața unui angajat. Se anunță de trei ori: [i]"Code 0, Code 0, Code 0 — [motiv] — [Rank] [Prenume] [Nume] has Priority Traffic."[/i]
+
+[*][b]Code 1 — Răspuns Non-Urgent:[/b] Echipajul se deplasează fără lumini sau sirene, respectând codul rutier. Se folosește la apeluri de rutină care nu prezintă risc iminent pentru viață sau proprietate.
+
+[*][b]Code 2 — Răspuns Urgent:[/b] Echipajul se deplasează cu lumini de avertizare active, fără sirenă. Se folosește când situația este importantă dar nu critica — de exemplu, reinforcements non-emergente sau transfer de pacient stabil.
+
+[*][b]Code 3 — Răspuns de Urgență:[/b] Echipajul se deplasează cu lumini și sirenă active, cu prioritate de trecere. Se folosește la incendii active, accidente cu victime, urgențe medicale critice și orice incident în care întârzierea prezintă risc vital.
+
+[*][b]Code 4 — Scenă Securizată:[/b] Declarat de [b]Incident Commander[/b] la finalizarea intervenției. Indică faptul că scena este sub control, riscurile au fost eliminate și resursele suplimentare nu mai sunt necesare. Echipajele raportează [i]"Clear from scene, back in service"[/i] și revin pe Stația 712.
+[/list]
+
+[b]Terminologie generală:[/b]
+[list]
+[*][b]MCI (Mass Casualty Incident):[/b] Incident cu victime multiple care depășesc capacitatea de răspuns imediată. Necesită activarea planului MCI și solicitarea de resurse suplimentare.
+[*][b]Priority Traffic:[/b] Mesaj urgent care necesită liniște pe frecvență. Se anunță înainte de transmisie; celelalte unități suspendă comunicările.
+[*][b]Mayday:[/b] Semnal de urgență transmis de un pompier aflat în pericol iminent. Declanșează automat [b]Code 0[/b] și activarea [b]RIT (Rapid Intervention Team)[/b].
+[*][b]PAR (Personnel Accountability Report):[/b] Verificarea periodică a prezenței și stării întregului personal activ la scenă, solicitată de IC.
 [/list]
 
 [size=130][b]19.09 Email-uri și Scrisori Departamentale[/b][/size]

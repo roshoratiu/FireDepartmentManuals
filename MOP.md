@@ -749,6 +749,43 @@ Monitorizează scena pentru pericole ([b]Hazards[/b]), menține [b]Accountabilit
 [b]Operations Coordinator[/b]
 Gestionează alocarea resurselor ([b]Resource Allocation[/b]) și comunicațiile radio la incidente majore, asistând [b]Incident Commander[/b]-ul cu planificarea tactică.
 
+[size=130][b]10.04 Incident Commander — Desemnare și Autoritate[/b][/size]
+
+Fiecare intervenție activă are un singur [b]Incident Commander (IC)[/b] desemnat la un moment dat. IC deține autoritatea operațională completă asupra scenei și a tuturor echipajelor prezente, indiferent de aparatul sau divizia din care provin.
+
+[b]10.04.01 Desemnarea IC[/b]
+
+[list=1]
+[*][b]Regula generală:[/b] IC este, implicit, cel mai mare rank prezent la scenă. Primul echipaj sosit preia IC până la sosirea unui officer superior.
+
+[*][b]Excepție — Incidente specializate:[/b] Dacă scena impune calificări specifice (ex: Hazmat, Water Rescue, USAR, Structural Collapse), IC este cel mai mare rank prezent care deține calificările necesare acelui tip de incident. Un [b]Captain[/b] fără calificarea [b]Hazmat Operations[/b] nu poate fi IC la o scenă Hazmat; în schimb, un [b]Engineer[/b] cu [b]TIER III[/b] în [b]Division 2: HSOD - Hazmat, Special Operations & Disaster Response[/b] preia IC pentru acel incident specific.
+
+[*][b]Predarea IC (Transfer of Command):[/b] Când sosește un officer cu rank superior și cu calificările necesare, IC se transferă. Transferul se anunță explicit pe canal principal înainte de efectuare: [i]"Transfer of Command towards [Rank] [Prenume] [Nume], [Rank] [Prenume] [Nume] has Command."[/i] Noul IC confirmă preluarea pe același canal.
+[/list]
+
+[b]10.04.02 Autoritatea și Prioritatea IC pe Canal[/b]
+
+[list]
+[*][b]Prioritate absolută:[/b] IC are prioritate absolută pe canalul principal de Dispatch ([b]Stația 712[/b]). Nicio altă transmisie nu întrerupe IC, cu excepția unui [b]Code 0[/b] sau a unui [b]Mayday[/b].
+
+[*][b]Sectorizarea comunicațiilor:[/b] IC poate redirecta echipaje sau grupuri pe canalele tactice dedicate incidentelor: [b]Stația 713 (IC1 / TAC1)[/b] sau [b]Stația 714 (IC2 / TAC2)[/b]. Această decizie se ia când incidentul crește în complexitate și traficul radio pe 712 devine supraîncărcat.
+
+[*][b]Subordonare:[/b] Toate transmisiile de pe canalele 713 și 714 sunt subordonate IC principal de pe 712. Ofițerii care coordonează un sector pe TAC1 sau TAC2 raportează periodic situația către IC principal.
+
+[*][b]Revenirea pe 712:[/b] La încheierea incidentului sau la ordinul IC, echipajele revin pe canalul principal 712 și raportează [i]"Clear from scene, back in service."[/i]
+[/list]
+
+[b]10.04.03 Responsabilitățile IC la Scenă[/b]
+
+[list]
+[*]Preia comanda și anunță scenei pe 712: [i]"[Rank] [Prenume] [Nume] has Command at [Locație]."[/i]
+[*]Evaluează scena, stabilește strategia (ofensivă sau defensivă) și comunică obiectivele tactice.
+[*]Alocă resursele și sectorizează incidentul dacă este necesar.
+[*]Menține [b]Accountability[/b] (evidența personalului în zonele active).
+[*]Solicită resurse suplimentare prin Dispatch ([b]Stația 712[/b]) dacă situația o impune.
+[*]Declară [b]Code 4[/b] când scena este securizată și raportează situația finală.
+[/list]
+
 [hr]
 
 [size=150][b]11. DIVISION 2: HAZMAT, SPECIAL OPERATIONS & DISASTER RESPONSE[/b][/size]
