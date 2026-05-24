@@ -1,4 +1,4 @@
-[quote="Aisha Dubois" post_id=68 time=1769543433 user_id=58]
+﻿[quote="Aisha Dubois" post_id=68 time=1769543433 user_id=58]
 [birou= MANUAL OF OPERATIONS (MOP) - PART 2 white][size=150][b]12. DIVISION 3: WILDLAND & ENVIRONMENTAL OPERATIONS[/b][/size]
 
 [size=130][b]12.01 Descriere și Scop[/b][/size]
@@ -7,10 +7,10 @@
 [size=130][b]12.02 Sistemul TIER[/b][/size]
 Avansarea în cadrul diviziei se bazează pe acumularea calificărilor specifice, conform structurii:
 [list]
-[*][b]TIER 1: Entry Level[/b] — Membru de bază, calificat ca [b]Wildland Firefighter - Type 2[/b].
-[*][b]TIER 2: Advanced Firefighter[/b] — Membru experimentat, calificat ca [b]Wildland Firefighter - Type 1[/b].
-[*][b]TIER 3: Specialized Operator[/b] — Operator specializat pe vehicule ([b]Wildland Engine Operator[/b]) sau operațiuni aeriene ([b]Wildland Helitack[/b]).
-[*][b]TIER 4: Division Lead[/b] — Deține toate calificările și poate fi numit [b]Wildland Operations Coordinator[/b] de către [b]Bureau Commander[/b].
+[*][b]TIER 1: Entry Level[/b] - Membru de bază, calificat ca [b]Wildland Firefighter - Type 2[/b].
+[*][b]TIER 2: Advanced Firefighter[/b] - Membru experimentat, calificat ca [b]Wildland Firefighter - Type 1[/b].
+[*][b]TIER 3: Specialized Operator[/b] - Operator specializat pe vehicule ([b]Wildland Engine Operator[/b]) sau operațiuni aeriene ([b]Wildland Helitack[/b]).
+[*][b]TIER 4: Division Lead[/b] - Deține toate calificările și poate fi numit [b]Wildland Operations Coordinator[/b] de către [b]Bureau Commander[/b].
 [/list]
 
 [size=130][b]12.03 Poziții și Calificări[/b][/size]
@@ -43,10 +43,10 @@ Se concentrează pe protecția resurselor naturale și mitigarea daunelor ecolog
 [size=130][b]13.02 Sistemul TIER[/b][/size]
 Progresia în divizie se face prin specializare tehnică:
 [list]
-[*][b]TIER 1: Entry Level[/b] — Nivel de conștientizare ([b]Water Rescue Awareness[/b]).
-[*][b]TIER 2: Technician[/b] — Specializare pe o disciplină (Swift Water, Marine, Ice sau Flood).
-[*][b]TIER 3: Advanced Multi-Role[/b] — Deține multiple specializări tehnice (ex: Dive + Swift Water).
-[*][b]TIER 4: Division Lead[/b] — Deține toate calificările și poate fi numit [b]Water Rescue Coordinator[/b] de către [b]Bureau Commander[/b].
+[*][b]TIER 1: Entry Level[/b] - Nivel de conștientizare ([b]Water Rescue Awareness[/b]).
+[*][b]TIER 2: Technician[/b] - Specializare pe o disciplină (Swift Water, Marine, Ice sau Flood).
+[*][b]TIER 3: Advanced Multi-Role[/b] - Deține multiple specializări tehnice (ex: Dive + Swift Water).
+[*][b]TIER 4: Division Lead[/b] - Deține toate calificările și poate fi numit [b]Water Rescue Coordinator[/b] de către [b]Bureau Commander[/b].
 [/list]
 
 [size=130][b]13.03 Poziții și Calificări[/b][/size]
@@ -79,10 +79,10 @@ Gestionează evacuările în masă în timpul inundațiilor urbane. Utilizează 
 [size=130][b]14.02 Sistemul TIER[/b][/size]
 Progresia în cadrul diviziei se face pe baza expertizei tehnice și a autorității legale:
 [list]
-[*][b]TIER 1: Entry Level[/b] — Membri concentrați pe educație și inspecții de bază ([b]Fire Safety Officer[/b]).
-[*][b]TIER 2: Inspector[/b] — Membri cu autoritate de aplicare a codului ([b]Fire Inspector[/b]).
-[*][b]TIER 3: Investigator[/b] — Specialiști în investigarea scenelor și colectarea probelor ([b]Fire Investigator[/b] / [b]Arson Investigator[/b]).
-[*][b]TIER 4: Division Lead[/b] — Deține toate calificările diviziei și poate fi numit [b]Fire Prevention Chief[/b] de către [b]Bureau Commander[/b].
+[*][b]TIER 1: Entry Level[/b] - Membri concentrați pe educație și inspecții de bază ([b]Fire Safety Officer[/b]).
+[*][b]TIER 2: Inspector[/b] - Membri cu autoritate de aplicare a codului ([b]Fire Inspector[/b]).
+[*][b]TIER 3: Investigator[/b] - Specialiști în investigarea scenelor și colectarea probelor ([b]Fire Investigator[/b] / [b]Arson Investigator[/b]).
+[*][b]TIER 4: Division Lead[/b] - Deține toate calificările diviziei și poate fi numit [b]Fire Prevention Chief[/b] de către [b]Bureau Commander[/b].
 [/list]
 
 [size=130][b]14.03 Poziții și Calificări[/b][/size]
@@ -117,10 +117,10 @@ Nivelul de intrare în prevenție. Oferă consultanță pentru siguranța la dom
 
 [size=130][b]15.02 Sistemul TIER[/b][/size]
 [list]
-[*][b]TIER 1: Assistant[/b] — Instructori asistenți sau FTO juniori.
-[*][b]TIER 2: Instructor/FTO[/b] — Membri complet calificați să predea și să evalueze.
-[*][b]TIER 3: Senior/Coordinator[/b] — Coordonatori de programe și instructori principali.
-[*][b]TIER 4: Division Lead[/b] — Deține toate calificările și poate fi numit [b]Training Division Chief[/b] de către [b]Bureau Commander[/b].
+[*][b]TIER 1: Assistant[/b] - Instructori asistenți sau FTO juniori.
+[*][b]TIER 2: Instructor/FTO[/b] - Membri complet calificați să predea și să evalueze.
+[*][b]TIER 3: Senior/Coordinator[/b] - Coordonatori de programe și instructori principali.
+[*][b]TIER 4: Division Lead[/b] - Deține toate calificările și poate fi numit [b]Training Division Chief[/b] de către [b]Bureau Commander[/b].
 [/list]
 
 [size=130][b]15.03 Poziții și Calificări[/b][/size]
@@ -163,10 +163,10 @@ Creează scenarii de antrenament realiste și provocatoare. Planifică exerciți
 
 [size=130][b]16.02 Sistemul TIER[/b][/size]
 [list]
-[*][b]TIER 1: Entry Level[/b] — Tehnicieni suport sau dispeceri de bază.
-[*][b]TIER 2: Specialist[/b] — Tehnicieni flotă sau ofițeri de logistică.
-[*][b]TIER 3: Manager[/b] — Manageri de secțiune (Fleet, Comms).
-[*][b]TIER 4: Division Lead[/b] — Deține toate calificările și poate fi numit [b]Support Services Chief[/b] de către [b]Bureau Commander[/b].
+[*][b]TIER 1: Entry Level[/b] - Tehnicieni suport sau dispeceri de bază.
+[*][b]TIER 2: Specialist[/b] - Tehnicieni flotă sau ofițeri de logistică.
+[*][b]TIER 3: Manager[/b] - Manageri de secțiune (Fleet, Comms).
+[*][b]TIER 4: Division Lead[/b] - Deține toate calificările și poate fi numit [b]Support Services Chief[/b] de către [b]Bureau Commander[/b].
 [/list]
 
 [size=130][b]16.03 Poziții și Calificări[/b][/size]
@@ -201,10 +201,10 @@ Responsabil pentru întreținerea clădirilor (stațiilor). Gestionează tichete
 
 [size=130][b]17.02 Sistemul TIER[/b][/size]
 [list]
-[*][b]TIER 1: Assistant[/b] — Asistenți HR sau Records.
-[*][b]TIER 2: Officer[/b] — Ofițeri HR sau coordonatori recrutare.
-[*][b]TIER 3: Senior[/b] — Ofițeri Afaceri Interne sau PIO.
-[*][b]TIER 4: Division Lead[/b] — Deține toate calificările și poate fi numit [b]Administrative Services Chief[/b] de către [b]Bureau Commander[/b].
+[*][b]TIER 1: Assistant[/b] - Asistenți HR sau Records.
+[*][b]TIER 2: Officer[/b] - Ofițeri HR sau coordonatori recrutare.
+[*][b]TIER 3: Senior[/b] - Ofițeri Afaceri Interne sau PIO.
+[*][b]TIER 4: Division Lead[/b] - Deține toate calificările și poate fi numit [b]Administrative Services Chief[/b] de către [b]Bureau Commander[/b].
 [/list]
 
 [size=130][b]17.03 Poziții și Calificări[/b][/size]
@@ -264,7 +264,7 @@ Echipajele care descoperă o persoană evident decedată trebuie să evite modif
 
 [size=130][b]18.08 Panic Alarm și Conștientizarea Distress-ului[/b][/size]
 Toți [b]Firefighters[/b] sunt echipați cu o [b]Panic Alarm[/b] pe stația radio Motorola. Aceasta permite comunicarea rapidă și silențioasă către [b]Dispatch[/b] că angajatul este în pericol iminent ("Distress"), unde comunicarea verbală ar risca agravarea situației.
-[i][OOC]: Se utilizează comanda /hq cu sintaxa: *Panic Alarm Activated — Nume Prenume*.[/i]
+[i][OOC]: Se utilizează comanda /hq cu sintaxa: *Panic Alarm Activated - Nume Prenume*.[/i]
 
 [size=130][b]18.09 Dash Camera Footage[/b][/size]
 Majoritatea [b]Apparatus[/b]-urilor sunt echipate cu camere de bord. Înregistrările video pornesc automat la pornirea motorului. Înregistrările audio pornesc automat la activarea [b]Lights and Sirens[/b]. Accesul la aceste înregistrări este restricționat pentru [b]Fire Administration[/b] și [b]Professional Standards Division[/b].

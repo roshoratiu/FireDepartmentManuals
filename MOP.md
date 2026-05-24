@@ -1,4 +1,4 @@
-[birou= MANUAL OF OPERATIONS (MOP) white]
+﻿[birou= MANUAL OF OPERATIONS (MOP) white]
 
 [size=150][b]CAPITOLUL 1: INTRODUCERE[/b][/size]
 
@@ -17,12 +17,12 @@ O citire periodică a acestor documente este recomandată pentru a asigura reți
 Valorile fundamentale ale Departamentului sunt cunoscute prin acronimul [b]SPIRIT[/b] și sunt după cum urmează:
 
 [list]
-[*][b]Service[/b] — Dedicație completă față de Comunitatea pe care o servim.
-[*][b]Professionalism[/b] — Onorarea [b]Firefighter Oath[/b] prin competență și excelență.
-[*][b]Integrity[/b] — Respectarea conduitei morale și etice în permanență.
-[*][b]Respect[/b] — Aprecierea diversității și recunoașterea valorii fiecărui individ.
-[*][b]Innovation[/b] — Asumarea riscurilor creative pentru adaptare și îmbunătățire.
-[*][b]Trust[/b] — Încredere în integritatea, puterea și capacitatea membrilor noștri.
+[*][b]Service[/b] - Dedicație completă față de Comunitatea pe care o servim.
+[*][b]Professionalism[/b] - Onorarea [b]Firefighter Oath[/b] prin competență și excelență.
+[*][b]Integrity[/b] - Respectarea conduitei morale și etice în permanență.
+[*][b]Respect[/b] - Aprecierea diversității și recunoașterea valorii fiecărui individ.
+[*][b]Innovation[/b] - Asumarea riscurilor creative pentru adaptare și îmbunătățire.
+[*][b]Trust[/b] - Încredere în integritatea, puterea și capacitatea membrilor noștri.
 [/list]
 
 [size=130][b]1.05 Principii de Operare[/b][/size]
@@ -174,7 +174,7 @@ Specialistul în îngrijire medicală avansată. Acest rank se obține după [b]
 
 [b]Responsabilități:[/b] Lider medical la scenele de urgență, administrează medicamente (IV/IO), efectuează management avansat al căilor respiratorii (intubație), monitorizare cardiacă și interpretare EKG. Supervizează activitatea membrilor cu certificare [b]BLS[/b] la scenă. Poate servi ca [b]Division Lead[/b] pentru divizii medicale sau operaționale.
 
-Cerinte pentru avansare: Minim 6 luni ca Firefighter, obținerea Emergency Medical Technician (EMT), Field Medic, și Advanced Life Support (ALS) — Critical Care Provider.
+Cerinte pentru avansare: Minim 6 luni ca Firefighter, obținerea Emergency Medical Technician (EMT), Field Medic, și Advanced Life Support (ALS) - Critical Care Provider.
 [list]
 [*][b]Nivel Autoritate:[/b] Personal de Teren
 [*][b]Tip Poziție:[/b] Fire-sworn
@@ -579,15 +579,12 @@ Departamentul angajează un sistem proactiv care constă din două tipuri princi
 
 9.03.01 Cerințe de Progresie
 Avansarea necesită îndeplinirea unor perioade minime de timp (Time Served) și obținerea calificărilor specifice:
-[b]Probationary Firefighter → Firefighter:[/b] Completarea Field Training Program (FTP). Necesită Basic Life Support (BLS), Fire Suppression (Fire 1), Fire 2, Apparatus Driver, Vehicle Extrication, Rope Rescue.
-
-[b]Firefighter → Engineer:[/b] Minim 6 luni ca Firefighter, finalizarea Supervisor Training Program (STP). Necesită Interior Operations, Pump Operations, Fire 3, toate Specializările Tactice (cu excepția Incident Safety Officer și Operations Coordinator), și Incident Command System (ICS).
-[b]
-Firefighter → Paramedic: [/b]Minim 6 luni ca Firefighter. Necesită Emergency Medical Technician (EMT), Field Medic, și Advanced Life Support (ALS) — Critical Care Provider.
-
-[b]Engineer / Paramedic → Lieutenant:[/b] Minim 3 ani IC / 2 luni OOC, trecerea Promotional Exam. Necesită Field Training Officer (FTO), Operations Coordinator și Incident Safety Officer, plus specializarile Engineer si Paramedic
-
-[b]Lieutenant → Captain:[/b] Finalizarea Officer Training Program (OTP).
+[list]
+[*][b]Probationary Firefighter -> Firefighter:[/b] Completarea Field Training Program (FTP). Necesită Basic Life Support (BLS), Fire Suppression (Fire 1), Fire 2, Apparatus Driver, Vehicle Extrication, Rope Rescue.
+[*][b]Firefighter -> Engineer:[/b] Minim 6 luni ca Firefighter, finalizarea Supervisor Training Program (STP). Necesită Interior Operations, Pump Operations, Fire 3, toate Specializările Tactice (cu excepția Incident Safety Officer și Operations Coordinator), și Incident Command System (ICS).
+[*][b]Firefighter -> Paramedic:[/b] Minim 6 luni ca Firefighter. Necesită Emergency Medical Technician (EMT), Field Medic, și Advanced Life Support (ALS) - Critical Care Provider.
+[*][b]Engineer / Paramedic -> Lieutenant:[/b] Minim 3 ani IC / 2 luni OOC, trecerea Promotional Exam. Necesită Field Training Officer (FTO), Operations Coordinator și Incident Safety Officer, plus specializările Engineer și Paramedic.
+[*][b]Lieutenant -> Captain:[/b] Finalizarea Officer Training Program (OTP).
 [/list]
 
 [b]9.03.02 Promovări Officer[/b]
@@ -753,7 +750,7 @@ Avansarea se face prin acumularea calificărilor:
 [*][b]TIER 1 (Entry):[/b] Decontamination Specialist (necesită [b]Hazmat Operations[/b]).
 [*][b]TIER 2 (Technician):[/b] Hazmat Entry Technician (necesită [b]Hazmat Technician[/b]).
 [*][b]TIER 3 (Advanced):[/b] CBRN Response Officer.
-[*][b]TIER 4: Division Lead[/b] — Deține toate calificările și poate fi numit [b]HSOD Coordinator[/b] de către [b]Bureau Commander[/b].
+[*][b]TIER 4: Division Lead[/b] - Deține toate calificările și poate fi numit [b]HSOD Coordinator[/b] de către [b]Bureau Commander[/b].
 [/list]
 
 [size=130][b]11.03 Poziții și Calificări[/b][/size]
