@@ -154,6 +154,18 @@ Creează scenarii de antrenament realiste și provocatoare. Planifică exerciți
 [b]Supervisor Training Program (STP):[/b] Program obligatoriu pentru avansarea la Engineer, concentrat pe dezvoltarea abilităților de supervizare, operarea complexă a Apparatus-urilor, managementul resurselor și cunoștințe avansate de Incident Command System (ICS).
 [b]Officer Training Program (OTP):[/b] Program obligatoriu pentru avansarea la Captain, axat pe comandă avansată, planificare strategică, managementul stației și luarea deciziilor la incidente majore (Major Incidents).
 
+[size=130][b]15.05 Cum se Solicită o Calificare[/b][/size]
+Orice membru care dorește să obțină o calificare nouă urmează procedura standardizată gestionată de [b]Division 6: Training & Professional Development[/b]:
+
+[list=1]
+[*]Membrul contactează [b]Division 6: Training & Professional Development[/b] și specifică calificarea dorită.
+[*][b]Division 6[/b] verifică eligibilitatea (rank, calificări prealabile, disponibilitate program) și contactează membrul cu detaliile: cerințe, program de instruire și metoda de evaluare.
+[*]Membrul parcurge instruirea și evaluarea conform planului stabilit de [b]Division 6[/b].
+[*]La finalizare, [b]Certification Officer[/b] înregistrează oficial calificarea în dosarul de personal al membrului.
+[/list]
+
+[b]Notă:[/b] [b]Division 6[/b] gestionează și recertificările periodice. Membrii sunt responsabili pentru monitorizarea propriilor calificări și pentru solicitarea recertificării înainte de expirare.
+
 [hr]
 
 [size=150][b]16. DIVISION 7: FLEET, LOGISTICS & COMMUNICATIONS[/b][/size]

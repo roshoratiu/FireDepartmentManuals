@@ -401,6 +401,18 @@ Calificări specifice pentru [b]Division 7, 8[/b].
 [*][b]Supply & Logistics Officer:[/b] Gestiunea stocurilor și achiziții.
 [/list]
 
+[size=130][b]5.11 Cum se Obțin Calificările[/b][/size]
+Procesul de obținere a oricărei calificări este coordonat de [b]Division 6: Training & Professional Development[/b], conform pașilor de mai jos:
+
+[list=1]
+[*]Membrul contactează [b]Division 6: Training & Professional Development[/b] și exprimă interesul pentru o calificare specifică.
+[*][b]Division 6[/b] revizuiește eligibilitatea membrului (rank, calificări existente, timp în serviciu) și îl contactează cu detaliile complete: cerințe, program de instruire și metoda de evaluare.
+[*]Membrul parcurge procesul de instruire și evaluare stabilit de [b]Division 6[/b].
+[*]La finalizare, calificarea este înregistrată oficial de [b]Certification Officer[/b] din [b]Division 6[/b] și adăugată în dosarul de personal.
+[/list]
+
+[b]Notă:[/b] Unele calificări au cerințe prealabile (prerequisite). Verificați lista completă din secțiunile 5.02-5.10 și din [b]CALIFICARI Registry[/b] înainte de a contacta [b]Division 6[/b].
+
 [hr]
 
 [size=150][b]6. REGULAMENTE UNIFORME ȘI ASPECT[/b][/size]

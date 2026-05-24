@@ -5,6 +5,15 @@
 [size=80][color=#aaaaaa]Registru oficial al calificarilor disponibile in LSFD, organizate pe divizii si niveluri TIER.[/color][/size]
 [/center]
 
+[divbox=#1a1a1a][center][color=white][size=92][b]CUM SE OBTINE O CALIFICARE[/b][/size][/color][/center]
+[size=86][color=#cccccc]
+[b]1.[/b] Contacteaza [b]Division 6: Training & Professional Development[/b] si specifica calificarea dorita.
+[b]2.[/b] [b]Division 6[/b] verifica eligibilitatea ta si te contacteaza cu cerintele, programul de instruire si metoda de evaluare.
+[b]3.[/b] Parcurgi instruirea si evaluarea conform planului stabilit.
+[b]4.[/b] La finalizare, [b]Certification Officer[/b] inregistreaza oficial calificarea in dosarul tau de personal.
+[/color][/size]
+[/divbox]
+
 [divbox=#0D1B2E][center][color=white][size=92][b]CORE OPERATIONS - Primary Operations Bureau[/b][/size][/color][/center][/divbox]
 [list][size=86]
 [*][b]Basic Life Support (BLS)[/b] - obligatoriu pentru toti membrii.
