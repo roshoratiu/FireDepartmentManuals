@@ -92,6 +92,27 @@ Rezuma procesul in 4 pasi direct in registru, pentru acces rapid fara a consulta
 
 [hr][/hr]
 
+[b][size=110]IV. CALLSIGN-URI SI APPARATUS (MOP-PARTII, Sectiunea 20.06)[/b][/size]
+
+[list]
+[*][color=#FFA500][b]~[/b][/color] [b]Sectiunea 20.06 — [s]Asignari Statie si Pozitii Apparatus[/s] Callsign-uri si Apparatus[/b] [color=#FFA500][i](rescrisa complet)[/i][/color]
+Inlocuieste referinta depasita la "Station 11". Adaugata legenda prefixelor, ierarhia de comanda vehicule si callsign-urile pentru toate statiile operationale.
+[/list]
+
+[b]Legenda prefixe:[/b]
+[list]
+[*][b]RA[/b] — Rescue Ambulance (ALS) [b]|[/b] [b]E[/b] — Engine [b]|[/b] [b]R[/b] — Rescue [b]|[/b] [b]SQ[/b] — Squad
+[*][b]FR[/b] — First Response [b]|[/b] [b]LS[/b] — Line Supervisor (SUV) [b]|[/b] [b]BU[/b] — Battalion [b]|[/b] [b]CU[/b] — Command [b]|[/b] [b]FC[/b] — Fire Chief
+[/list]
+
+[b]Ierarhia vehicule:[/b] LS (Supervisor SUV) → BU (Battalion) → CU (Command) → FC (Fire Chief)
+
+[b]Fire Station 3 — Davis:[/b] RA310-312 | E318-319 | FR325 | LS31 | CU31
+[b]Fire Station 132 — Marina:[/b] RA111 | E125 | CU11
+[b]Fire Station 72 — El Burro:[/b] RA710-730 | FR750-760 | E760-770 | R785/787 | SQ795/797 | LS71-72 | BU71-72 | CU71-72 | FC1
+
+[hr][/hr]
+
 Orice intrebare referitoare la aceste modificari se adreseaza in scris catre [b]Division 6: Training & Professional Development[/b].
 
 [b]Fire Chief, Los Santos Fire Department[/b]

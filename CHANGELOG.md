@@ -22,6 +22,16 @@ Acest document inregistreaza toate modificarile aduse manualelor din repository,
 [*][b]Sectiunea 3.5 (X-Collar) — corectata:[/b] `loviturae la cap` → `lovituri la cap` (exces de litere la finalul substantivului plural).
 [/list]
 
+[size=110][b]MOP-PARTII.md[/b][/size] — Capitol 20 (Politici Flota si Facilitati)
+[list]
+[*][b]Sectiunea 20.06 — Callsign-uri si Apparatus[/b] (rescrisa complet): Inlocuita referinta generica si outdated la "Station 11". Adaugata legenda prefixelor (RA, E, R, SQ, FR, LS, BU, CU, FC), ierarhia de comanda vehicule (LS → BU → CU → FC) si callsign-urile complete pentru cele trei statii operationale:
+[list]
+[*]Fire Station 3 — Davis: RA310-RA312, E318-E319, FR325, LS31, CU31.
+[*]Fire Station 132 — Marina: RA111, E125, CU11.
+[*]Fire Station 72 — El Burro: RA710-RA730, FR750-FR760, E760-E770, R785/R787, SQ795/SQ797, LS71-LS72, BU71-BU72, CU71-CU72, FC1.
+[/list]
+[/list]
+
 [hr][/hr]
 
 [size=120][b]2026-05-24 — Sesiunea 4[/b][/size]

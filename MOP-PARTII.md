@@ -1,5 +1,4 @@
-﻿[quote="Aisha Dubois" post_id=68 time=1769543433 user_id=58]
-[birou= MANUAL OF OPERATIONS (MOP) - PART 2 white][size=150][b]12. DIVISION 3: WILDLAND & ENVIRONMENTAL OPERATIONS[/b][/size]
+﻿[birou= MANUAL OF OPERATIONS (MOP) - PART 2 white][size=150][b]12. DIVISION 3: WILDLAND & ENVIRONMENTAL OPERATIONS[/b][/size]
 
 [size=130][b]12.01 Descriere și Scop[/b][/size]
 [b]Division 3: Wildland & Environmental Operations[/b] este responsabilă pentru gestionarea incendiilor de vegetație ([b]Wildland Firefighting[/b]), protecția resurselor naturale și suportul aerian asociat. Membrii acestei divizii sunt specializați în tactici de stingere în teren accidentat, operarea vehiculelor off-road și coordonarea cu agențiile de mediu pentru a minimiza impactul ecologic. Divizia integrează operațiuni la sol cu suportul aerian ([b]Helitack[/b]) pentru o eficiență maximă în zonele greu accesibile.
@@ -331,9 +330,9 @@ Toate transmisiile radio respectă un format standardizat pentru claritate și i
 
 Exemple:
 [list]
-[*][i]"Lieutenant Maria Ionescu, Engine 7 on scene at [locație], two-story structure with smoke showing, assuming Command."[/i]
-[*][i]"Firefighter Dan Popescu, primary search complete, no victims found, floor two clear."[/i]
-[*][i]"Engineer Alex Dumitrescu, water supply established from hydrant at [locație], pump pressures nominal."[/i]
+[*][i]"Lieutenant Maria Ionescu, Engine 7 la scena in [locatie], structura pe doua niveluri cu smoke showing, preiau Command."[/i]
+[*][i]"Firefighter Dan Popescu, primary search finalizat, nicio victima gasita, etajul doi clear."[/i]
+[*][i]"Engineer Alex Dumitrescu, water supply stabilit de la hidrantul din [locatie], pump pressures nominale."[/i]
 [/list]
 [/list]
 
@@ -343,8 +342,8 @@ Exemple:
 
 Exemple:
 [list]
-[*][i]"Firefighter Radu Marin towards Lieutenant Maria Ionescu, victim located room 204, requesting EMS to second floor."[/i]
-[*][i]"Captain George Stancu towards Battalion Chief Ana Popa, requesting two additional Engines and a Truck for exposure protection."[/i]
+[*][i]"Firefighter Radu Marin towards Lieutenant Maria Ionescu, victima localizata in camera 204, solicit EMS la etajul doi."[/i]
+[*][i]"Captain George Stancu towards Battalion Chief Ana Popa, solicit doua Engines si un Truck aditional pentru exposure protection."[/i]
 [/list]
 [/list]
 
@@ -416,13 +415,54 @@ Vizitatorii trebuie întâmpinați cu politețe și escortați. Nu au voie să u
 [size=130][b]20.05 Înregistrări și Ordine[/b][/size]
 Nu se completează documentație (rapoarte) în timp ce echipajul este pe o scenă activă. Toate rapoartele se fac după încheierea incidentului ("Clear from scene").
 
-[size=130][b]20.06 Asignări Stație și Poziții Apparatus[/b][/size]
-Fiecare vehicul are un loc desemnat în garaj ([b]Bay[/b]).
-[b]Station 11 Bay Assignments:[/b]
+[size=130][b]20.06 Callsign-uri si Apparatus[/b][/size]
+
+Fiecare unitate operationala a Departamentului are un callsign unic, utilizat exclusiv pe radio si in rapoartele de incident. Callsign-ul identifica stația, rolul unitatii si numarul individual al vehiculului.
+
+[b]Legenda prefixelor:[/b]
 [list]
-[*]Bay 3/4: [b]Rescue Ambulance (RA)[/b]
-[*]Bay 7/8: [b]Engine (E)[/b]
-[*]Bay 6: [b]Truck (T)[/b]
+[*][b]RA##[/b] — Rescue Ambulance (ALS)
+[*][b]E##[/b] — Engine
+[*][b]R##[/b] — Rescue
+[*][b]SQ##[/b] — Squad
+[*][b]FR##[/b] — First Response
+[*][b]LS##[/b] — Line Supervisor (SUV)
+[*][b]BU##[/b] — Battalion Unit
+[*][b]CU##[/b] — Command Unit
+[*][b]FC#[/b] — Fire Chief
+[/list]
+
+[b]Ierarhia de comanda vehicule:[/b] [b]LS[/b] (Supervisor SUV) → [b]BU[/b] (Battalion) → [b]CU[/b] (Command) → [b]FC[/b] (Fire Chief)
+
+[hr][/hr]
+
+[b]Fire Station 3 — Davis[/b]
+[list]
+[*][b]RA310, RA311, RA312[/b] — Rescue Ambulance (ALS)
+[*][b]E318, E319[/b] — Engine
+[*][b]FR325[/b] — First Response
+[*][b]LS31[/b] — Line Supervisor
+[*][b]CU31[/b] — Command Unit
+[/list]
+
+[b]Fire Station 132 — Marina[/b]
+[list]
+[*][b]RA111[/b] — Rescue Ambulance (ALS)
+[*][b]E125[/b] — Engine
+[*][b]CU11[/b] — Command Unit
+[/list]
+
+[b]Fire Station 72 — El Burro[/b]
+[list]
+[*][b]RA710 — RA730[/b] — Rescue Ambulance (ALS)
+[*][b]FR750 — FR760[/b] — First Response
+[*][b]E760 — E770[/b] — Engine
+[*][b]R785, R787[/b] — Rescue
+[*][b]SQ795, SQ797[/b] — Squad
+[*][b]LS71, LS72[/b] — Line Supervisor
+[*][b]BU71, BU72[/b] — Battalion Unit
+[*][b]CU71, CU72[/b] — Command Unit
+[*][b]FC1[/b] — Fire Chief
 [/list]
 
 [size=130][b]20.07 Îndatoriri Stație[/b][/size]
@@ -457,5 +497,4 @@ Personalul trebuie să aștepte la stație pentru alocarea apelurilor. Echipajel
 [*][b]Medical Incidents:[/b] Se trimite o [b]Rescue Ambulance[/b] și, dacă este disponibil, un [b]Engine[/b] pentru suport (manpower) și un [b]Medical Supervisor[/b].
 [*][b]Fire Incidents:[/b] Se trimit [b]Engines[/b] și [b]Trucks[/b] conform deciziei [b]Incident Commander[/b]-ului, plus cel puțin o [b]Rescue Ambulance[/b] pentru siguranța pompierilor ("Standby").
 [/list][/birou]
-[/quote]
 
