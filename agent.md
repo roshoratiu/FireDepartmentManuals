@@ -50,3 +50,19 @@ Un raport de cross-check include:
 - Ce este corect si consistent
 - Ce este **inconsistent sau absent**, cu localizare exacta (sectiune, linie, termen)
 - Ce schimbare propun, cu referinta la sursa corecta din MOP sau CALIFICARI
+
+## Verificarea Cuvintelor in Romana
+
+Cand scriu sau editez text in limba romana, verific ca **fiecare cuvant romanesc exista si este corect scris**. Regulile:
+
+1. **Termenii englezi sunt acceptati** cand reprezinta terminologie tehnica sau medicala consacrata (ex: `tourniquet`, `staging`, `flush`, `airway`, `CPR`, `chest rise`). Nu trebuie tradusi fortat.
+
+2. **Cuvintele romanesti trebuie sa existe.** Nu creez cuvinte romanesti prin:
+   - Aplicarea de sufixe romanesti pe radacini engleze: ~~kinkuit~~ → `indoit`; ~~tuckeaza~~ → `se pliaza`; ~~ratiourile~~ → `rapoartele` / `proportiile`
+   - Folosirea unui cuvant existent cu sens gresit: ~~calcanul palmei~~ → `podul palmei` (`calcan` = un tip de peste, nu anatomie; termenul corect pentru baza palmei in CPR este `podul palmei`)
+   - Scrierea gresita cu litere engleze: ~~semikonştient~~ → `semiconstient`; ~~comfortabil~~ → `confortabil`; ~~incommod~~ → `incomod`; ~~immobilizeaza~~ → `imobilizeaza`
+   - Dublarea de consoane dupa model englez: ~~antebratt~~ → `antebrat`; ~~brattul~~ → `bratul`
+
+3. **Verificare practica**: daca un cuvant arata ciudat sau combina o radacina engleza cu o terminatie romaneasca, il inlocuiesc cu echivalentul romanesc corect sau cu termenul englez clar marcat ca atare.
+
+4. **Diacritice**: lipsa diacriticelor (ș, ț, ă, â, î) este tolerabila stilistic in acest repository (textul e amestecat), dar un cuvant scris gresit altfel decat prin absenta diacriticelor (ex: `comfortabil` in loc de `confortabil`) este o eroare reala si trebuie corectat.

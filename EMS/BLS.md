@@ -463,7 +463,7 @@ In open fracture, controlati bleeding-ul fara a apasa direct pe os sau fragmente
 [spoiler][list=none]
 Vacuum splint imobilizeaza membrul fracturat prin crearea unui vid intern care rigidizeaza bila de polistiren din interior, modelandu-se perfect pe forma membrului.
 
-[b]Folosit pentru:[/b] fracturi de glezna, picior, gamba (tibia/fibula), brat (humerus), antebratt (radius/cubitus). NU pentru fracturi de femur (necesita tractiune).
+[b]Folosit pentru:[/b] fracturi de glezna, picior, gamba (tibia/fibula), brat (humerus), antebrațul (radius/cubitus). NU pentru fracturi de femur (necesita tractiune).
 
 [b]Dimensionare:[/b] Alegeti splint-ul cu dimensiunile adecvate membrului — prea mic nu acopera zona fracturata si nu imobilizeaza adecvat.
 
@@ -531,27 +531,27 @@ Traction splint se foloseste EXCLUSIV pentru suspiciune de fractura de femur (os
 [spoiler][list=none]
 Triangular bandage ca sling (esarfa de sustinere) imobilizeaza si sustine membrul superior, reducand durerea, umflatura si miscarile inutile.
 
-[b]Folosit pentru:[/b] suspiciune de fractura de brat (humerus), antebratt, clavicula, sau luxatie de umar.
+[b]Folosit pentru:[/b] suspiciune de fractura de brat (humerus), antebraț, clavicula, sau luxatie de umar.
 
-[b]Swathing (legarea brattului de trunchi):[/b] dupa aplicarea sling-ului, legati brattul de trunchi cu o a doua fasie de bandaj (swathe) — immobilizeaza suplimentar si impiedica miscarile laterale. Util mai ales pentru humerus.
+[b]Swathing (legarea brațului de trunchi):[/b] dupa aplicarea sling-ului, legati brațul de trunchi cu o a doua fasie de bandaj (swathe) — imobilizeaza suplimentar si impiedica miscarile laterale. Util mai ales pentru humerus.
 
 [b]Cum se aplică sling-ul:[/b]
 [list=none]
 [b]1.[/b] Evaluati PMS distal inainte de aplicare.
-[b]2.[/b] Asezati brattul pacientului intr-o pozitie comfortabila — cot flectat la 90°, antebratt orizontal sau usor ridicat.
-[b]3.[/b] Plasati un colt al bandajului triunghiular sub cot si desfasurati-l pana acopera antebrattul si mana.
-[b]4.[/b] Ridicati coltul inferior al bandajului peste bratt si aduceti ambele capete la ceafa; legati lateral (nu pe coloana vertebrala — incommod si dureros).
-[b]5.[/b] Coltul de la cot se fixeaza cu un ac de siguranta sau se rasuceste si tuckeaza.
+[b]2.[/b] Asezati brațul pacientului intr-o pozitie confortabila — cot flectat la 90°, antebrațul orizontal sau usor ridicat.
+[b]3.[/b] Plasati un colt al bandajului triunghiular sub cot si desfasurati-l pana acopera antebrațul si mana.
+[b]4.[/b] Ridicati coltul inferior al bandajului peste brat si aduceti ambele capete la ceafa; legati lateral (nu pe coloana vertebrala — incomod si dureros).
+[b]5.[/b] Coltul de la cot se fixeaza cu un ac de siguranta sau se rasuceste si pliaza sub bandaj.
 [b]6.[/b] Verificati ca degetele sunt vizibile si accesibile pentru evaluarea PMS.
 [b]7.[/b] Reevaluati PMS dupa aplicare.
 [/list]
 
 [b][color=#FF0000]Greșeli comune:[/color][/b]
 [list]
-[*]Nod pe coloana vertebrala — dureros la pozitionare, incommod la transport.
-[*]Sling prea larg — brattul atarna in loc sa fie sustinut.
+[*]Nod pe coloana vertebrala — dureros la pozitionare, incomod la transport.
+[*]Sling prea larg — brațul atarna in loc sa fie sustinut.
 [*]Degetele ascunse in sling — nu puteti evalua PMS distal.
-[*]Brattul coborat sub 90° fara indicatie — poate creste durerea in anumite fracturi.
+[*]Brațul coborat sub 90° fara indicatie — poate creste durerea in anumite fracturi.
 [/list]
 
 [altspoiler=TRIANGULAR BANDAGE][center][img]https://i.imgur.com/bqAcjVd.jpg[/img][/center][/altspoiler]
@@ -561,7 +561,7 @@ Triangular bandage ca sling (esarfa de sustinere) imobilizeaza si sustine membru
 [spoiler][list=none]
 X-Collar imobilizeaza coloana cervicala, limitand miscarile gâtului la pacientii cu suspiciune de traumă spinala cervicala. NU elimina necesitatea imobilizarii manuale pana nu este fixat corect pe backboard.
 
-[b]Indicatii:[/b] coliziune auto cu MOI semnificativ, cadere de la inaltime, sport de contact, violenta (strangulare, loviturae la cap), pacient inconstient cu MOI traumatic necunoscut.
+[b]Indicatii:[/b] coliziune auto cu MOI semnificativ, cadere de la inaltime, sport de contact, violenta (strangulare, lovituri la cap), pacient inconstient cu MOI traumatic necunoscut.
 
 [b]Dimensionarea colerului:[/b] X-Collar vine in mai multe marimi. Marimea corecta: masurarea distantei de la umar la barbie (cu capul in pozitie neutra). Comparati cu scalele de pe colier. Un X-Collar prea mare extinde gâtul (riscant); prea mic comprima traheea sau nu imobilizeaza.
 
@@ -712,7 +712,7 @@ CPR menține temporar circulatia sangelui si oxigenarea creierului si organelor 
 [b]2.[/b] Strigati dupa ajutor si solicitati AED si resurse suplimentare.
 [b]3.[/b] Verificati pulsul carotidian maxim 10 secunde (nu mai mult — nu pierdeti timp). Daca nu sunteti sigur ca exista puls, incepeti CPR.
 [b]4.[/b] Pozitionati pacientul pe o suprafata dura si plana — CPR pe saltea moale sau pat este ineficient (toracele se comprima in suprafata, nu spre stern).
-[b]5.[/b] Pozitionati mainile: calcanul palmei mainii dominante pe [b]treimea inferioara a sternului[/b] (nu pe procesul xifoid — risc de ruptura, NU eficient; nu pe coaste). Mana non-dominanta deasupra. Degetele ridicate (nu apasa pe coaste). Bratele drepte, blocat la coate.
+[b]5.[/b] Pozitionati mainile: podul palmei mainii dominante pe [b]treimea inferioara a sternului[/b] (nu pe procesul xifoid — risc de ruptura, NU eficient; nu pe coaste). Mana non-dominanta deasupra. Degetele ridicate (nu apasa pe coaste). Bratele drepte, blocat la coate.
 [b]6.[/b] Incepeti compresiile:
 [list]
 [*]Adancime: [b]5-6 cm[/b] la adult (nu mai putin — compresie insuficienta; nu mai mult — fractura de stern, pneumotorax, tamponada).

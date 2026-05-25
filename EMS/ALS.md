@@ -66,7 +66,7 @@ ALS nu înlocuiește BLS. Procedurile BLS - scene safety, BSI, airway basic, ble
 
 [b]STEMI - ST-Elevation Myocardial Infarction (infarct miocardic cu supradenivelare ST):[/b] ocluzie coronariana totala evidentiata prin supradenivelare ST ≥1 mm in ≥2 derivatii adiacente pe EKG. Urgenta maxima: notificati spitalul imediat pentru PCI (angioplastie) primara — fiecare minut conteaza.
 
-[b]NPA - Nasopharyngeal Airway (cale aeriena nazofaringiana):[/b] dispozitiv flexibil introdus printr-o nara, mentinand un canal aerian pana in nazofaringe. Tolerat de pacienti semikonștienti cu gag reflex usor prezent. Masurare: de la varful nasului la tragus.
+[b]NPA - Nasopharyngeal Airway (cale aeriena nazofaringiana):[/b] dispozitiv flexibil introdus printr-o nara, mentinand un canal aerian pana in nazofaringe. Tolerat de pacienti semiconstienți cu gag reflex usor prezent. Masurare: de la varful nasului la tragus.
 
 [b]SCA - Sudden Cardiac Arrest (stop cardiac subit):[/b] oprirea brusca si neasteptata a activitatii cardiace eficiente, cu pierderea pulsului si constiintei. Necesita CPR imediata si defibrilare cat mai rapida.
 
@@ -132,7 +132,7 @@ OPA menține limba departe de posterior pharynx la pacienți inconștienți făr
 
 [b]NPA - Nasopharyngeal Airway (cale aeriena nazofaringiana) — alternativa la OPA[/b]
 
-NPA este un tub moale de cauciuc sau silicon introdus printr-o nara, care menține un canal aerian până în nazofaringe. Este tolerat de pacienți semikonștienti cu gag reflex prezent, unde OPA este contraindicat.
+NPA este un tub moale de cauciuc sau silicon introdus printr-o nara, care menține un canal aerian până în nazofaringe. Este tolerat de pacienți semiconstienți cu gag reflex prezent, unde OPA este contraindicat.
 
 [b]Dimensionare:[/b] De la vârful nasului la tragus (lobul urechii). Calibru ales în funcție de diametrul nării: de obicei 6-7 mm la adulți (verificați că alunecă fără rezistență).
 
@@ -348,7 +348,7 @@ Needle decompression (toracostomie cu ac) tratează tension pneumothorax — acu
 [*][b]Locatie gresita (dedesubtul coastei):[/b] lezarea pachetului vasculo-nervos intercostal — sangerare intercostala. Intotdeauna punctionati pe marginea superioara a coastei inferioare.
 [*][b]Cateter prea scurt la pacienti obezi:[/b] cateterul de 4.5 cm (standard) nu ajunge la pleura — folositi 10-14 cm.
 [*][b]Partea gresita:[/b] decomprimati intotdeauna partea cu sunete absente sau diminuate. Decomprimarea partii gresite agraveza situatia.
-[*][b]Cateter kinkuit (indoit):[/b] cateterul moale se poate indoi la peretele toracic — verificati patenta dupa insertie (aerul trebuie sa iasa liber).
+[*][b]Cateter indoit:[/b] cateterul moale se poate indoi la peretele toracic — verificati patenta dupa insertie (aerul trebuie sa iasa liber).
 [*][b]Omisiunea reevaluarii:[/b] daca starea nu se imbunatateste dupa decompresie, considerati decomprimare si pe partea opusa sau alta cauza de deteriorare.
 [/list]
 
@@ -434,7 +434,7 @@ IV access permite administrarea de fluide, medicamente și produse de sânge rap
 [*]Brat cu fistula arteriovenoasa (dializa).
 [*]Membre cu fractura sau traumă severa distal de locatia propusa.
 [*]Zone cu celulita, flebita, hematom activ sau infectie locala.
-[*]Vezicula la articulatii mari fara stabilizare adecvata (genunchi, glezna — risc de kinking al cateterului la miscare).
+[*]Vezicula la articulatii mari fara stabilizare adecvata (genunchi, glezna — risc de indoire a cateterului la miscare).
 [/list]
 
 [b]Pași detaliati de execuție:[/b]

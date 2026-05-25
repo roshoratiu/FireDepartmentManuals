@@ -8,13 +8,29 @@ Acest document inregistreaza toate modificarile aduse manualelor din repository,
 
 [hr][/hr]
 
+[size=120][b]2026-05-25 — Sesiunea 5[/b][/size]
+
+[b]Verificare gramaticala romana — toate documentele scanate:[/b]
+[list]
+[*]Fisiere verificate: EMS/ALS.md, EMS/BLS.md, FIRE/ENGINE.md, FIRE/TRUCK.md, FIRE/SQUAD.md, FIRE/RESCUE.md, MOP.md, MOP-PARTII.md, CALIFICARI.md, CHANGELOG.md, Letter.md, agent.md.
+[*]Nicio eroare sistematica identificata in afara de cea de mai jos.
+[*]Toate cuvintele engleze cu sufixe romanesti corectate in sesiunile anterioare (kinkuit, tuckeaza, ratiourile, antebratt, immobilizeaza, comfortabila, incommod, calcanul palmei, semikonştient) sunt absente in versiunile curente.
+[/list]
+
+[size=110][b]EMS/BLS.md[/b][/size] — Corectie tipografica
+[list]
+[*][b]Sectiunea 3.5 (X-Collar) — corectata:[/b] `loviturae la cap` → `lovituri la cap` (exces de litere la finalul substantivului plural).
+[/list]
+
+[hr][/hr]
+
 [size=120][b]2026-05-24 — Sesiunea 4[/b][/size]
 
 [b]Cross-check EMS (ALS + BLS) — nicio contradictie identificata:[/b]
 [list]
 [*]Dozele de Aspirin, Activated Charcoal si Naloxone sunt consistente intre BLS.md si ALS.md.
 [*]Tintele SpO2 sunt consistente: 94-99% general (BLS) si 94-98% post-ROSC (ALS).
-[*]Rata CPR (100-120/min) si ratiourile compresii:ventilatii (30:2 adult) sunt identice in ambele manuale.
+[*]Rata CPR (100-120/min) si raportul compresii:ventilatii (30:2 adult) sunt identice in ambele manuale.
 [*]Terminologia tehnica (sniffing position, antecubital fossa, ICS/MCL/AAL, tibial tuberosity, flashback) este definita in ALS 1.1 si aplicata consistent in procedurile ALS.
 [/list]
 
@@ -64,12 +80,12 @@ Acest document inregistreaza toate modificarile aduse manualelor din repository,
 [*]Doua locatii acceptate: ICS 2 MCL (clasic) si ICS 4-5 AAL (alternativa la obezi).
 [*]Regula critica: punctionati pe MARGINEA SUPERIOARA a coastei inferioare (nu dedesubt — evitati pachetul vasculo-nervos).
 [*]Procedura in 9 pasi, cateter 14G minim 8 cm (10-14 cm la obezi).
-[*]Greselile comune: locatie gresita, cateter prea scurt, partea gresita, cateter kinkuit.
+[*]Greselile comune: locatie gresita, cateter prea scurt, partea gresita, cateter indoit.
 [/list]
 
 [b]Sectiunea 4.1 (IV Access) — rescrisa complet:[/b]
 [list]
-[*]Locatii preferate in ordine: fosa antecubitala (vena mediana cubitala), antebratt, dosul mainii, jugulara externa.
+[*]Locatii preferate in ordine: fosa antecubitala (vena mediana cubitala), antebratul, dosul mainii, jugulara externa.
 [*]Selectia calibrului (14G-22G) cu indicatii pentru fiecare.
 [*]Locatii de evitat (mastectomie, fistula AV, fractura distala, celulita).
 [*]Procedura in 11 pasi cu unghi de insertie (15-30° fosa antecubitala, 10-15° dorsal), tehnica de avansare a cateterului, eliberarea garoului inainte de deconectarea acului.
@@ -129,11 +145,11 @@ Acest document inregistreaza toate modificarile aduse manualelor din repository,
 [*][b]Sectiunea 3.1 (Open Fracture):[/b] Dressing umed pe os expus, procedura in 9 pasi, greselile comune.
 [*][b]Sectiunea 3.2 (Vacuum Splint):[/b] Dimensionare, verificarea PMS pre si post, greselile comune.
 [*][b]Sectiunea 3.3 (Traction Splint):[/b] Procedura completa in 9 pasi (inclusiv tractiunea manuala continua), contraindicatii absolute.
-[*][b]Sectiunea 3.4 (Triangular Bandage):[/b] Swathe (legarea brattului de trunchi) adaugata pentru imobilizare suplimentara.
+[*][b]Sectiunea 3.4 (Triangular Bandage):[/b] Swathe (legarea brațului de trunchi) adaugata pentru imobilizare suplimentara.
 [*][b]Sectiunea 3.5 (X-Collar):[/b] Dimensionare (distanta umar-barbie), contraindicatii, tehnica in 7 pasi cu doi salvatori.
 [*][b]Sectiunea 4.1 (Burn Degrees):[/b] Rule of Nines (Regula lui 9) cu procentele pe fiecare zona corporala, criteriile pentru arsuri majore.
 [*][b]Sectiunea 4.2 (Burn Treatment):[/b] Arsuri chimice (irigare 15-30 min, NU neutralizare cu substanta opusa), arsuri electrice (deconectare sursa, monitorizare EKG), greselile comune (gheata, flictene sparte, hipotermia la arsuri mari).
-[*][b]Sectiunea 5.1 (CPR):[/b] Pozitia mainilor (treimea inferioara a sternului, calcanul palmei, degetele ridicate), adancimea 5-6 cm, revenire completa, rotatia la 2 minute, CPR la copil/sugar, greselile comune extinse.
+[*][b]Sectiunea 5.1 (CPR):[/b] Pozitia mainilor (treimea inferioara a sternului, podul palmei, degetele ridicate), adancimea 5-6 cm, revenire completa, rotatia la 2 minute, CPR la copil/sugar, greselile comune extinse.
 [*][b]Sectiunea 5.2 (AED):[/b] Pozitionarea exacta a pads-urilor (sub clavicula dreapta, ICS 4-5 stang), situatii speciale (pacemaker implantat, pacient umed, peri excesiv, copii sub 8 ani), greselile comune.
 [*][b]Sectiunile 6.1-6.3 (O2):[/b] Debitele cu FiO2 estimat (NC), pre-umplerea obligatorie a saculetului NRB, tinta SpO2 diferentiata (general vs BPOC vs post-ROSC), tehnica C-E BVM, greselile comune (hiperventilatia, volumul excesiv, apasarea pe tesuturi moi).
 [*][b]Sectiunile 7.1-7.2 (Echipament):[/b] Log roll detaliat cu 4 salvatori si atribuirea pozitiilor, regulile de blocare a targii.
