@@ -8,6 +8,147 @@ Acest document inregistreaza toate modificarile aduse manualelor din repository,
 
 [hr][/hr]
 
+[size=120][b]2026-05-24 — Sesiunea 4[/b][/size]
+
+[b]Cross-check EMS (ALS + BLS) — nicio contradictie identificata:[/b]
+[list]
+[*]Dozele de Aspirin, Activated Charcoal si Naloxone sunt consistente intre BLS.md si ALS.md.
+[*]Tintele SpO2 sunt consistente: 94-99% general (BLS) si 94-98% post-ROSC (ALS).
+[*]Rata CPR (100-120/min) si ratiourile compresii:ventilatii (30:2 adult) sunt identice in ambele manuale.
+[*]Terminologia tehnica (sniffing position, antecubital fossa, ICS/MCL/AAL, tibial tuberosity, flashback) este definita in ALS 1.1 si aplicata consistent in procedurile ALS.
+[/list]
+
+[size=110][b]EMS/ALS.md[/b][/size] — Dezvoltare masiva a sectiunilor procedurale
+
+[b]Sectiunea 1.1 (Terminologie) — extinsa semnificativ:[/b]
+[list]
+[*]Adaugati termeni noi: SpO2, ROSC, VF, VT, PEA, RSI, GCS, MAP, STEMI, NPA, SCA, Antecubital fossa, Cephalic/Basilic vein, Cricothyroid membrane, Tibial tuberosity, ICS, MCL, AAL, Tidal volume, Tension pneumothorax, Sniffing position, Flashback, Mallampati score.
+[*]Completate definitiile pentru SL si IN cu detalii de administrare.
+[/list]
+
+[b]Sectiunea 2.1 (OPA) — rescrisa cu detaliu complet:[/b]
+[list]
+[*]Tehnica de dimensionare (de la coltul gurii la tragus).
+[*]Procedura detaliata: insertie inversata + rotire la adult, insertie directa (fara rotire) la copil.
+[*]Greselile comune cu consecinte explicate.
+[*]Adaugata sectiunea NPA: dimensionare, tehnica de insertie (perpendicular pe fata, nu inclinat), lubrifiant obligatoriu, greselile comune, contraindicatie la fractura baza craniu.
+[/list]
+
+[b]Sectiunea 2.2 (Airway Suction) — extinsa:[/b]
+[list]
+[*]Tipuri de catetere: Yankauer (orofaringe) vs cateter moale/French (ET tube, NPA).
+[*]Limitele de timp (maxim 10-15 secunde per aspirare), preoxigenare obligatorie.
+[*]Presiunile de aspirare (adult 80-120 mmHg, copil 60-80 mmHg).
+[*]Greselile comune: aspirare prelungita, avansare cu aspirare activa, Yankauer prea adânc.
+[/list]
+
+[b]Sectiunea 2.3 (ETI) — rescrisa complet:[/b]
+[list]
+[*]Lista completa de echipament (laryngoscop cu lame Mac/Miller, dimensiuni, ET tube dimensionat pe gen, stilet, syringe 10 mL, BVM, suction, capnography).
+[*]Sniffing position: explicata cu ridicarea occiputului 7-10 cm, exceptia traumatizatilor (in-line stabilization).
+[*]Procedura detaliata in 12 pasi (de la cross-finger, BURP, plasarea tubului prin coltul drept, confirmarea EtCO2).
+[*]Confirmarea plasarii: EtCO2 (gold standard), auscultatia (la axile), chest rise, condensare, SpO2.
+[*]Greselile comune cu consecinte: intubare esofagiana (semne, solutie), intubare in bronhia dreapta, parghie pe dinti, avansare fara vizualizare, hiperventilatia post-intubare.
+[*]Limita: maxim 3 tentative, apoi plan B (LMA/King LT sau cricotirotomie).
+[/list]
+
+[b]Sectiunea 2.5 (Needle Cricothyrotomy) — extinsa cu anatomie:[/b]
+[list]
+[*]Reper anatomic detaliat: localizarea membranei cricotiroidiene intre cartilajul tiroid si cricoid, tehnica de palpare pas cu pas.
+[*]Procedura completa in 8 pasi cu confirmare prin aspirare aer.
+[*]Greselile comune: identificare anatomica gresita, punctionare laterala (risc arterial), avansare fara confirmare.
+[/list]
+
+[b]Sectiunea 2.6 (Needle Decompression) — extinsa cu repere anatomice:[/b]
+[list]
+[*]Doua locatii acceptate: ICS 2 MCL (clasic) si ICS 4-5 AAL (alternativa la obezi).
+[*]Regula critica: punctionati pe MARGINEA SUPERIOARA a coastei inferioare (nu dedesubt — evitati pachetul vasculo-nervos).
+[*]Procedura in 9 pasi, cateter 14G minim 8 cm (10-14 cm la obezi).
+[*]Greselile comune: locatie gresita, cateter prea scurt, partea gresita, cateter kinkuit.
+[/list]
+
+[b]Sectiunea 4.1 (IV Access) — rescrisa complet:[/b]
+[list]
+[*]Locatii preferate in ordine: fosa antecubitala (vena mediana cubitala), antebratt, dosul mainii, jugulara externa.
+[*]Selectia calibrului (14G-22G) cu indicatii pentru fiecare.
+[*]Locatii de evitat (mastectomie, fistula AV, fractura distala, celulita).
+[*]Procedura in 11 pasi cu unghi de insertie (15-30° fosa antecubitala, 10-15° dorsal), tehnica de avansare a cateterului, eliberarea garoului inainte de deconectarea acului.
+[*]Confirmarea patentei: flashback, flush 10 mL fara rezistenta sau umflatura.
+[*]Greselile comune cu consecinte: avansare excesiva, neavansarea cateterului, reintroducerea acului (sectionarea cateterului), fara flush test, unghi gresit.
+[/list]
+
+[b]Sectiunea 4.2 (IO Access) — rescrisa complet:[/b]
+[list]
+[*]Indicatii clare: 2-3 tentative IV esuate sau 60-90 sec fara succes la pacient critic.
+[*]Toate locatiile de insertie cu repere anatomice exacte: tibia proximala (2-3 cm sub tuberozitate, fata mediala), tibia distala (2-3 cm deasupra maleolei mediale), humerus proximal (tuberculul mai mare, brat rotit intern), sternum (dispozitiv specializat FAST-1).
+[*]Procedura completa cu EZ-IO in 10 pasi.
+[*]Lidocaina IO obligatorie la pacient constient (2 mg/kg, max 40 mg) inainte de flush.
+[*]Confirmarea pozitiei: acul sta drept, flush fara rezistenta/extravasare, aspiratie maduva/sange.
+[*]Greselile comune: locatie gresita, nu perpendicular, oprire prematura/avansare excesiva, fara lidocaina la constient.
+[/list]
+
+[b]Sectiunea 5.1 (ECG) — extinsa:[/b]
+[list]
+[*]Plasarea derivatiilor pentru monitorizare 3-4 lead si 12-lead.
+[*]Plasarea electrozilor precordiali V1-V6 cu repere intercostale exacte.
+[*]Tehnica de identificare ICS 4 prin unghiul lui Louis.
+[*]Ritmuri uzuale de recunoscut in prespital cu tratamentul asociat.
+[*]Greselile comune: electrozi pe zone musculare (artefact), V1-V2 puse prea sus, confundarea artefactelor cu VF.
+[/list]
+
+[b]Sectiunea 6.1 (Routes) — rescrisa cu detalii complete:[/b]
+[list]
+[*]IV: flush 20 mL NS obligatoriu dupa medicamente bolus.
+[*]IO: lidocaina flush la pacient constient.
+[*]IM: site-uri detaliate (deltoid max 3 mL, vastus lateralis max 5 mL preferat, ventrogluteal) cu repere anatomice si volume maxime.
+[*]IN: MAD obligatoriu, max 1 mL per nara, tehnica de impartire a dozei.
+[*]SL: tehnica corecta de mentinere sub limba.
+[*]Inhaled: nebulizer continuu preferat in bronhospasm sever, respiratie adanca si lenta.
+[*]Ce NU trebuie facut: reguli de incompatibilitate, flush obligatoriu.
+[/list]
+
+[hr][/hr]
+
+[size=110][b]EMS/BLS.md[/b][/size] — Rescriere completa cu nivel de detaliu major
+
+[b]Toate sectiunile au fost rescrise/extinse semnificativ. Modificari principale:[/b]
+[list]
+[*][b]Sectiunea 1.1 (Arrival):[/b] Adaugata procedura de parcare la accidente rutiere (15-30 m, unghi de protectie).
+[*][b]Sectiunea 1.1.1 (BSI):[/b] Tipuri de echipament (nitrile, eye protection, mask, N95, halat), tehnica de scoatere a manusilor, greselile comune.
+[*][b]Sectiunea 1.1.2 (Scene Safety):[/b] Lista exhaustiva de pericole specifice, reguli detaliate de pozitionare si escape route.
+[*][b]Sectiunea 1.1.3 (MOI):[/b] Criterii de high index of suspicion pentru fiecare mecanism (auto, cadere, penetrant, explozie, electrocutare, inec), ce se observa la fata locului.
+[*][b]Sectiunea 1.1.5 (Triage):[/b] START Triage complet cu cele 4 categorii si procedura de executie pas cu pas.
+[*][b]Sectiunea 1.2.2 (Response):[/b] Tehnica stimulului dureros (trapezius pinch, sternum rub) cu durata si interpretare.
+[*][b]Sectiunea 1.2.3 (Airway):[/b] Tehnica detaliata head tilt (mana pe os mandibulei, nu pe tesuturi moi), jaw-thrust cu pozitionare corecta, sunete anormale cu semnificatia lor (snoring, gurgling, stridor, wheeze).
+[*][b]Sectiunea 1.2.4 (Breathing):[/b] Semne de insuficienta respiratorie inclusiv gasping agonic (NU este respiratie normala), valori FR pentru adult/copil/sugar.
+[*][b]Sectiunea 1.2.5 (Circulation):[/b] Locatii de palpare (radial, brahial, carotidian, femural) cu conditii de utilizare, interpretarea skin signs, CRT cu limitele sale.
+[*][b]Sectiunea 1.3 (Palpare):[/b] Tehnica completa, ce se cauta (crepitatie, instabilitate, guarding, rebound, subcutaneous emphysema).
+[*][b]Sectiunea 2.1 (Bleeding Control):[/b] Cantitati de pierdere de sange si Clasele I-IV, wound packing pentru zone non-extremitate (inghinal, axilar, gat), tourniquet: 5-8 cm proximal de rana, locatii corecte (treimea superioara brat/coapsa, nu pe articulatii), consecintele unui tourniquet prea slab.
+[*][b]Sectiunea 2.2 (Wound Cleaning):[/b] Irigare cu volum minim 100-200 mL, interzicerea apei oxigenate/betadinei intraranic, rani ce NU se curata in prespital.
+[*][b]Sectiunea 3 (Fracturi):[/b] PMS explicat (Pulse, Motor, Sensation) cu locatiile de palpare distala pentru fiecare membru.
+[*][b]Sectiunea 3.1 (Open Fracture):[/b] Dressing umed pe os expus, procedura in 9 pasi, greselile comune.
+[*][b]Sectiunea 3.2 (Vacuum Splint):[/b] Dimensionare, verificarea PMS pre si post, greselile comune.
+[*][b]Sectiunea 3.3 (Traction Splint):[/b] Procedura completa in 9 pasi (inclusiv tractiunea manuala continua), contraindicatii absolute.
+[*][b]Sectiunea 3.4 (Triangular Bandage):[/b] Swathe (legarea brattului de trunchi) adaugata pentru imobilizare suplimentara.
+[*][b]Sectiunea 3.5 (X-Collar):[/b] Dimensionare (distanta umar-barbie), contraindicatii, tehnica in 7 pasi cu doi salvatori.
+[*][b]Sectiunea 4.1 (Burn Degrees):[/b] Rule of Nines (Regula lui 9) cu procentele pe fiecare zona corporala, criteriile pentru arsuri majore.
+[*][b]Sectiunea 4.2 (Burn Treatment):[/b] Arsuri chimice (irigare 15-30 min, NU neutralizare cu substanta opusa), arsuri electrice (deconectare sursa, monitorizare EKG), greselile comune (gheata, flictene sparte, hipotermia la arsuri mari).
+[*][b]Sectiunea 5.1 (CPR):[/b] Pozitia mainilor (treimea inferioara a sternului, calcanul palmei, degetele ridicate), adancimea 5-6 cm, revenire completa, rotatia la 2 minute, CPR la copil/sugar, greselile comune extinse.
+[*][b]Sectiunea 5.2 (AED):[/b] Pozitionarea exacta a pads-urilor (sub clavicula dreapta, ICS 4-5 stang), situatii speciale (pacemaker implantat, pacient umed, peri excesiv, copii sub 8 ani), greselile comune.
+[*][b]Sectiunile 6.1-6.3 (O2):[/b] Debitele cu FiO2 estimat (NC), pre-umplerea obligatorie a saculetului NRB, tinta SpO2 diferentiata (general vs BPOC vs post-ROSC), tehnica C-E BVM, greselile comune (hiperventilatia, volumul excesiv, apasarea pe tesuturi moi).
+[*][b]Sectiunile 7.1-7.2 (Echipament):[/b] Log roll detaliat cu 4 salvatori si atribuirea pozitiilor, regulile de blocare a targii.
+[*][b]Sectiunea 8 (Medicamente) — profiluri complete adaugate:[/b]
+  [list]
+  [*][b]Aspirin:[/b] Indicatii, Contraindicatii, Doza (162-325 mg masticata), tehnica de administrare, ce NU se face.
+  [*][b]Ibuprofen:[/b] Indicatii, Contraindicatii (renala, sarcina, AINS), Doza (400-600 mg PO), interactiune cu Aspirina.
+  [*][b]Activated Charcoal:[/b] Indicatii (sub 60 min), Contraindicatii extinse (corozivi, hidrocarburi, alcooli, metale grele, litiu, voma activa), Doza (25-50 g adult), tehnica de administrare.
+  [*][b]Naloxone/Narcan:[/b] Triada clasica a supradozei opioid, doze BLS IN (2 mg / 1 mg per nara) si IM (0.4-2 mg), durata de actiune vs durata opioidului (re-sedare posibila), tehnica de administrare la dependent (titrat 0.4 mg), ce NU se face.
+  [*][b]Sectiune noua 8.3 — Oral Glucose:[/b] Indicatii (hipoglicemie <70 mg/dL la pacient constient), contraindicatii, doza (15-20 g glucoza), repetare la 15 min cu glucometrie, transport obligatoriu.
+  [/list]
+[/list]
+
+[hr][/hr]
+
 [size=120][b]2026-05-24 — Sesiunea 3[/b][/size]
 
 [b]Cross-check general — probleme identificate si rezolvate:[/b]
