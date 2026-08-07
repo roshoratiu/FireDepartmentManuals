@@ -1,4 +1,12 @@
-# FireDepartmentManuals
+﻿# FireDepartmentManuals
+
+## License
+
+This repository is proprietary and all rights are reserved by Horatiu-Gabriel
+Ros, GitHub username `roshoratiu`. No use, copying, redistribution,
+modification, reposting, mirroring, AI training, or publication is permitted
+without explicit prior written permission. Unauthorized copies or reposts must be
+taken down. See [LICENSE.md](LICENSE.md).
 
 Acest repository contine documentatia operationala pentru o factiune de tip
 Los Santos Fire Department. Fisierele sunt scrise in romana si folosesc in mare
@@ -23,8 +31,9 @@ dosare de personal.
 |   `-- ALS.md
 |-- FIRE/
 |   |-- ENGINE.md
+|   |-- RESCUE.md
 |   |-- SQUAD.md
-|   `-- TRUSCK.md
+|   `-- TRUCK.md
 `-- Anunturi/
     `-- FisierePersonale.md
 ```
@@ -130,10 +139,9 @@ interior:
 - salvage si reducerea daunelor la proprietate;
 - atac interior, utilizarea SCBA, sistemul de echipa si comunicarea cu IC.
 
-### `FIRE/TRUSCK.md`
+### `FIRE/TRUCK.md`
 
-Manual pentru Truck/Ladder Company. Numele fisierului pare sa contina o greseala
-de tastare (`TRUSCK` in loc de `TRUCK`). Continutul acopera:
+Manual pentru Truck/Ladder Company. Continutul acopera:
 
 - echipamente de truck/ladder: fierastraie, scari, ventilator, unelte de fortare,
   saltea pneumatica, stabilizare si backboard;
@@ -141,6 +149,18 @@ de tastare (`TRUSCK` in loc de `TRUCK`). Continutul acopera:
 - raspuns la apeluri suicidale si persoane blocate la inaltime;
 - atac exterior si ventilare;
 - ventilatie verticala, orizontala si folosirea ventilatorului portabil.
+
+### `FIRE/RESCUE.md`
+
+Manual concept pentru Rescue Company. Propune rolul unitatii in cadrul Special
+Operations, cu accent pe:
+
+- rescue operations, stabilizare si extricare;
+- cautare si salvare in cladiri, zone greu accesibile si incidente complexe;
+- suport pentru Squad, Truck si Engine la interventii cu risc ridicat;
+- coordonare cu Hazmat, USAR si Incident Command;
+- concept pentru unitati complementare precum Rescue Engine sau Water/Foam
+  Tender.
 
 ### `Anunturi/FisierePersonale.md`
 
@@ -161,8 +181,7 @@ Sablon BBCode pentru dosar de personal. Include sectiuni pentru:
   reguli OOC.
 - Multe fisiere includ linkuri catre imagini externe si taguri BBCode pentru
   afisare pe forum.
-- Unele texte par sa aiba probleme de encoding pentru diacritice, afisate in
-  forma `Ä`, `È`, `Â` etc. Continutul poate necesita normalizare la UTF-8 daca
-  urmeaza sa fie editat sau publicat intr-un sistem care foloseste diacritice.
+- Fisierele trebuie pastrate in UTF-8 corect, cu liste BBCode (`[list]` si
+  `[*]`) acolo unde continutul este pregatit pentru forum.
 - Manualele EMS contin proceduri medicale pentru context de roleplay si nu ar
   trebui tratate ca instructiuni medicale reale.

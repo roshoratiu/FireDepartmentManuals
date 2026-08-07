@@ -1,5 +1,4 @@
-[quote="Aisha Dubois" post_id=68 time=1769543433 user_id=58]
-[birou= MANUAL OF OPERATIONS (MOP) - PART 2 white][size=150][b]12. DIVISION 3: WILDLAND & ENVIRONMENTAL OPERATIONS[/b][/size]
+﻿[birou= MANUAL OF OPERATIONS (MOP) - PART 2 white][size=150][b]12. DIVISION 3: WILDLAND & ENVIRONMENTAL OPERATIONS[/b][/size]
 
 [size=130][b]12.01 Descriere și Scop[/b][/size]
 [b]Division 3: Wildland & Environmental Operations[/b] este responsabilă pentru gestionarea incendiilor de vegetație ([b]Wildland Firefighting[/b]), protecția resurselor naturale și suportul aerian asociat. Membrii acestei divizii sunt specializați în tactici de stingere în teren accidentat, operarea vehiculelor off-road și coordonarea cu agențiile de mediu pentru a minimiza impactul ecologic. Divizia integrează operațiuni la sol cu suportul aerian ([b]Helitack[/b]) pentru o eficiență maximă în zonele greu accesibile.
@@ -7,10 +6,10 @@
 [size=130][b]12.02 Sistemul TIER[/b][/size]
 Avansarea în cadrul diviziei se bazează pe acumularea calificărilor specifice, conform structurii:
 [list]
-[*][b]TIER 1: Entry Level[/b] — Membru de bază, calificat ca [b]Wildland Firefighter - Type 2[/b].
-[*][b]TIER 2: Advanced Firefighter[/b] — Membru experimentat, calificat ca [b]Wildland Firefighter - Type 1[/b].
-[*][b]TIER 3: Specialized Operator[/b] — Operator specializat pe vehicule ([b]Wildland Engine Operator[/b]) sau operațiuni aeriene ([b]Wildland Helitack[/b]).
-[*][b]TIER 4: Division Lead[/b] — Deține toate calificările și poate fi numit [b]Wildland Operations Coordinator[/b] de către [b]Bureau Commander[/b].
+[*][b]TIER 1: Entry Level[/b] - Membru de bază, calificat ca [b]Wildland Firefighter - Type 2[/b].
+[*][b]TIER 2: Advanced Firefighter[/b] - Membru experimentat, calificat ca [b]Wildland Firefighter - Type 1[/b].
+[*][b]TIER 3: Specialized Operator[/b] - Operator specializat pe vehicule ([b]Wildland Engine Operator[/b]) sau operațiuni aeriene ([b]Wildland Helitack[/b]).
+[*][b]TIER 4: Division Lead[/b] - Deține toate calificările și poate fi numit [b]Wildland Operations Coordinator[/b] de către [b]Bureau Commander[/b].
 [/list]
 
 [size=130][b]12.03 Poziții și Calificări[/b][/size]
@@ -43,10 +42,10 @@ Se concentrează pe protecția resurselor naturale și mitigarea daunelor ecolog
 [size=130][b]13.02 Sistemul TIER[/b][/size]
 Progresia în divizie se face prin specializare tehnică:
 [list]
-[*][b]TIER 1: Entry Level[/b] — Nivel de conștientizare ([b]Water Rescue Awareness[/b]).
-[*][b]TIER 2: Technician[/b] — Specializare pe o disciplină (Swift Water, Marine, Ice sau Flood).
-[*][b]TIER 3: Advanced Multi-Role[/b] — Deține multiple specializări tehnice (ex: Dive + Swift Water).
-[*][b]TIER 4: Division Lead[/b] — Deține toate calificările și poate fi numit [b]Water Rescue Coordinator[/b] de către [b]Bureau Commander[/b].
+[*][b]TIER 1: Entry Level[/b] - Nivel de conștientizare ([b]Water Rescue Awareness[/b]).
+[*][b]TIER 2: Technician[/b] - Specializare pe o disciplină (Swift Water, Marine, Ice sau Flood).
+[*][b]TIER 3: Advanced Multi-Role[/b] - Deține multiple specializări tehnice (ex: Dive + Swift Water).
+[*][b]TIER 4: Division Lead[/b] - Deține toate calificările și poate fi numit [b]Water Rescue Coordinator[/b] de către [b]Bureau Commander[/b].
 [/list]
 
 [size=130][b]13.03 Poziții și Calificări[/b][/size]
@@ -79,10 +78,10 @@ Gestionează evacuările în masă în timpul inundațiilor urbane. Utilizează 
 [size=130][b]14.02 Sistemul TIER[/b][/size]
 Progresia în cadrul diviziei se face pe baza expertizei tehnice și a autorității legale:
 [list]
-[*][b]TIER 1: Entry Level[/b] — Membri concentrați pe educație și inspecții de bază ([b]Fire Safety Officer[/b]).
-[*][b]TIER 2: Inspector[/b] — Membri cu autoritate de aplicare a codului ([b]Fire Inspector[/b]).
-[*][b]TIER 3: Investigator[/b] — Specialiști în investigarea scenelor și colectarea probelor ([b]Fire Investigator[/b] / [b]Arson Investigator[/b]).
-[*][b]TIER 4: Division Lead[/b] — Deține toate calificările diviziei și poate fi numit [b]Fire Prevention Chief[/b] de către [b]Bureau Commander[/b].
+[*][b]TIER 1: Entry Level[/b] - Membri concentrați pe educație și inspecții de bază ([b]Fire Safety Officer[/b]).
+[*][b]TIER 2: Inspector[/b] - Membri cu autoritate de aplicare a codului ([b]Fire Inspector[/b]).
+[*][b]TIER 3: Investigator[/b] - Specialiști în investigarea scenelor și colectarea probelor ([b]Fire Investigator[/b] / [b]Arson Investigator[/b]).
+[*][b]TIER 4: Division Lead[/b] - Deține toate calificările diviziei și poate fi numit [b]Fire Prevention Chief[/b] de către [b]Bureau Commander[/b].
 [/list]
 
 [size=130][b]14.03 Poziții și Calificări[/b][/size]
@@ -117,10 +116,10 @@ Nivelul de intrare în prevenție. Oferă consultanță pentru siguranța la dom
 
 [size=130][b]15.02 Sistemul TIER[/b][/size]
 [list]
-[*][b]TIER 1: Assistant[/b] — Instructori asistenți sau FTO juniori.
-[*][b]TIER 2: Instructor/FTO[/b] — Membri complet calificați să predea și să evalueze.
-[*][b]TIER 3: Senior/Coordinator[/b] — Coordonatori de programe și instructori principali.
-[*][b]TIER 4: Division Lead[/b] — Deține toate calificările și poate fi numit [b]Training Division Chief[/b] de către [b]Bureau Commander[/b].
+[*][b]TIER 1: Assistant[/b] - Instructori asistenți sau FTO juniori.
+[*][b]TIER 2: Instructor/FTO[/b] - Membri complet calificați să predea și să evalueze.
+[*][b]TIER 3: Senior/Coordinator[/b] - Coordonatori de programe și instructori principali.
+[*][b]TIER 4: Division Lead[/b] - Deține toate calificările și poate fi numit [b]Training Division Chief[/b] de către [b]Bureau Commander[/b].
 [/list]
 
 [size=130][b]15.03 Poziții și Calificări[/b][/size]
@@ -154,6 +153,18 @@ Creează scenarii de antrenament realiste și provocatoare. Planifică exerciți
 [b]Supervisor Training Program (STP):[/b] Program obligatoriu pentru avansarea la Engineer, concentrat pe dezvoltarea abilităților de supervizare, operarea complexă a Apparatus-urilor, managementul resurselor și cunoștințe avansate de Incident Command System (ICS).
 [b]Officer Training Program (OTP):[/b] Program obligatoriu pentru avansarea la Captain, axat pe comandă avansată, planificare strategică, managementul stației și luarea deciziilor la incidente majore (Major Incidents).
 
+[size=130][b]15.05 Cum se Solicită o Calificare[/b][/size]
+Orice membru care dorește să obțină o calificare nouă urmează procedura standardizată gestionată de [b]Division 6: Training & Professional Development[/b]:
+
+[list=1]
+[*]Membrul contactează [b]Division 6: Training & Professional Development[/b] și specifică calificarea dorită.
+[*][b]Division 6[/b] verifică eligibilitatea (rank, calificări prealabile, disponibilitate program) și contactează membrul cu detaliile: cerințe, program de instruire și metoda de evaluare.
+[*]Membrul parcurge instruirea și evaluarea conform planului stabilit de [b]Division 6[/b].
+[*]La finalizare, [b]Certification Officer[/b] înregistrează oficial calificarea în dosarul de personal al membrului.
+[/list]
+
+[b]Notă:[/b] [b]Division 6[/b] gestionează și recertificările periodice. Membrii sunt responsabili pentru monitorizarea propriilor calificări și pentru solicitarea recertificării înainte de expirare.
+
 [hr]
 
 [size=150][b]16. DIVISION 7: FLEET, LOGISTICS & COMMUNICATIONS[/b][/size]
@@ -163,10 +174,10 @@ Creează scenarii de antrenament realiste și provocatoare. Planifică exerciți
 
 [size=130][b]16.02 Sistemul TIER[/b][/size]
 [list]
-[*][b]TIER 1: Entry Level[/b] — Tehnicieni suport sau dispeceri de bază.
-[*][b]TIER 2: Specialist[/b] — Tehnicieni flotă sau ofițeri de logistică.
-[*][b]TIER 3: Manager[/b] — Manageri de secțiune (Fleet, Comms).
-[*][b]TIER 4: Division Lead[/b] — Deține toate calificările și poate fi numit [b]Support Services Chief[/b] de către [b]Bureau Commander[/b].
+[*][b]TIER 1: Entry Level[/b] - Tehnicieni suport sau dispeceri de bază.
+[*][b]TIER 2: Specialist[/b] - Tehnicieni flotă sau ofițeri de logistică.
+[*][b]TIER 3: Manager[/b] - Manageri de secțiune (Fleet, Comms).
+[*][b]TIER 4: Division Lead[/b] - Deține toate calificările și poate fi numit [b]Support Services Chief[/b] de către [b]Bureau Commander[/b].
 [/list]
 
 [size=130][b]16.03 Poziții și Calificări[/b][/size]
@@ -201,10 +212,10 @@ Responsabil pentru întreținerea clădirilor (stațiilor). Gestionează tichete
 
 [size=130][b]17.02 Sistemul TIER[/b][/size]
 [list]
-[*][b]TIER 1: Assistant[/b] — Asistenți HR sau Records.
-[*][b]TIER 2: Officer[/b] — Ofițeri HR sau coordonatori recrutare.
-[*][b]TIER 3: Senior[/b] — Ofițeri Afaceri Interne sau PIO.
-[*][b]TIER 4: Division Lead[/b] — Deține toate calificările și poate fi numit [b]Administrative Services Chief[/b] de către [b]Bureau Commander[/b].
+[*][b]TIER 1: Assistant[/b] - Asistenți HR sau Records.
+[*][b]TIER 2: Officer[/b] - Ofițeri HR sau coordonatori recrutare.
+[*][b]TIER 3: Senior[/b] - Ofițeri Afaceri Interne sau PIO.
+[*][b]TIER 4: Division Lead[/b] - Deține toate calificările și poate fi numit [b]Administrative Services Chief[/b] de către [b]Bureau Commander[/b].
 [/list]
 
 [size=130][b]17.03 Poziții și Calificări[/b][/size]
@@ -264,7 +275,7 @@ Echipajele care descoperă o persoană evident decedată trebuie să evite modif
 
 [size=130][b]18.08 Panic Alarm și Conștientizarea Distress-ului[/b][/size]
 Toți [b]Firefighters[/b] sunt echipați cu o [b]Panic Alarm[/b] pe stația radio Motorola. Aceasta permite comunicarea rapidă și silențioasă către [b]Dispatch[/b] că angajatul este în pericol iminent ("Distress"), unde comunicarea verbală ar risca agravarea situației.
-[i][OOC]: Se utilizează comanda /hq cu sintaxa: *Panic Alarm Activated — Nume Prenume*.[/i]
+[i][OOC]: Se utilizează comanda /hq cu sintaxa: *Panic Alarm Activated - Nume Prenume*.[/i]
 
 [size=130][b]18.09 Dash Camera Footage[/b][/size]
 Majoritatea [b]Apparatus[/b]-urilor sunt echipate cu camere de bord. Înregistrările video pornesc automat la pornirea motorului. Înregistrările audio pornesc automat la activarea [b]Lights and Sirens[/b]. Accesul la aceste înregistrări este restricționat pentru [b]Fire Administration[/b] și [b]Professional Standards Division[/b].
@@ -303,11 +314,40 @@ Se utilizează "Plain English" (limbaj clar), fără coduri radio (10-codes), pe
 [/list]
 
 [b]19.06.02 Frecvențe[/b]
-Angajații trebuie să aibă radioul setat pe frecvențele corecte la începutul fiecărui [b]Shift[/b]:
+Angajații trebuie să aibă radioul setat pe frecvențele corecte la începutul fiecărui [b]Shift[/b]. Canalele departamentale sunt:
 [list]
-[*][b]Metropolitan Fire Communications (Dispatch):[/b] Canalul Principal.
-[*][b]TAC Channels:[/b] Pentru coordonare la scenă.
+[*][b]Stația 712 — Metropolitan Fire Communications (Dispatch / Canal Principal):[/b] Canalul de bază pe care se desfășoară toate comunicațiile cu [b]Dispatch[/b] și raportările generale ale scenei. Toate unitățile monitorizează 712 în permanență.
+[*][b]Stația 713 — IC1 / TAC1 (Tactic Channel 1):[/b] Canal tactic dedicat incidentelor active. Alocat de [b]Incident Commander[/b] când traficul radio pe 712 trebuie degrevat sau când un sector al incidentului necesită coordonare separată.
+[*][b]Stația 714 — IC2 / TAC2 (Tactic Channel 2):[/b] Canal tactic secundar, folosit la incidente simultane sau la sectorizarea unui incident major cu mai multe zone de operare. Echipajele de pe 714 raportează periodic pe 712 prin IC sau prin [b]Operations Coordinator[/b].
 [/list]
+
+[b]19.06.03 Format de Comunicare Radio[/b]
+Toate transmisiile radio respectă un format standardizat pentru claritate și identificare rapidă. [b]Nu se folosesc prescurtări, coduri informale sau argou[/b].
+
+[b]Format general (transmisie de raport sau anunț):[/b]
+[list=none]
+[i]"[Rank] [Prenume] [Nume], [mesaj]."[/i]
+
+Exemple:
+[list]
+[*][i]"Lieutenant Maria Ionescu, Engine 7 la scena in [locatie], structura pe doua niveluri cu smoke showing, preiau Command."[/i]
+[*][i]"Firefighter Dan Popescu, primary search finalizat, nicio victima gasita, etajul doi clear."[/i]
+[*][i]"Engineer Alex Dumitrescu, water supply stabilit de la hidrantul din [locatie], pump pressures nominale."[/i]
+[/list]
+[/list]
+
+[b]Format cu destinatar (cerere directă sau raport adresat):[/b]
+[list=none]
+[i]"[Rank] [Prenume] [Nume] towards [Rank] [Prenume] [Nume], [mesaj]."[/i]
+
+Exemple:
+[list]
+[*][i]"Firefighter Radu Marin towards Lieutenant Maria Ionescu, victima localizata in camera 204, solicit EMS la etajul doi."[/i]
+[*][i]"Captain George Stancu towards Battalion Chief Ana Popa, solicit doua Engines si un Truck aditional pentru exposure protection."[/i]
+[/list]
+[/list]
+
+[b]Notă:[/b] Destinatarul confirmă recepția înainte de a răspunde: [i]"[Rank] [Prenume] [Nume], copy."[/i] Dacă nu există confirmare în 15-20 de secunde, transmisia se repetă.
 
 [size=130][b]19.07 Asignări Radio[/b][/size]
 [list]
@@ -317,13 +357,27 @@ Angajații trebuie să aibă radioul setat pe frecvențele corecte la începutul
 [*][b]Engine (E##):[/b] Unități de stingere primare.
 [/list]
 
-[size=130][b]19.08 Terminologie[/b][/size]
+[size=130][b]19.08 Terminologie și Coduri de Răspuns[/b][/size]
+
+[b]Coduri de răspuns:[/b] Codurile indică modul și urgența deplasării unui echipaj. Dispatch le anunță la alocarea apelului; IC le poate modifica pe parcursul intervenției.
 [list]
-[*][b]Code 1:[/b] Răspuns non-emergent (fără lumini/sirene).
-[*][b]Code 2:[/b] Răspuns urgent, doar lumini (folosit rar).
-[*][b]Code 3:[/b] Răspuns urgent, lumini și sirene.
-[*][b]MCI (Mass Casualty Incident):[/b] Incident cu victime multiple.
-[*][b]Priority Traffic:[/b] Mesaj urgent care necesită liniște pe frecvență.
+[*][b]Code 0 — Emergency Traffic / Canal Liber:[/b] Declarat exclusiv de [b]Incident Commander[/b] sau de [b]Dispatch[/b]. Toate transmisiile de pe canal se opresc imediat; se acordă prioritate absolută traficului de urgență. Se folosește la [b]Mayday[/b], [b]Firefighter Down[/b] sau orice situație care pune în pericol imediat viața unui angajat. Se anunță de trei ori: [i]"Code 0, Code 0, Code 0 — [motiv] — [Rank] [Prenume] [Nume] has Priority Traffic."[/i]
+
+[*][b]Code 1 — Răspuns Non-Urgent:[/b] Echipajul se deplasează fără lumini sau sirene, respectând codul rutier. Se folosește la apeluri de rutină care nu prezintă risc iminent pentru viață sau proprietate.
+
+[*][b]Code 2 — Răspuns Urgent:[/b] Echipajul se deplasează cu lumini de avertizare active, fără sirenă. Se folosește când situația este importantă dar nu critica — de exemplu, reinforcements non-emergente sau transfer de pacient stabil.
+
+[*][b]Code 3 — Răspuns de Urgență:[/b] Echipajul se deplasează cu lumini și sirenă active, cu prioritate de trecere. Se folosește la incendii active, accidente cu victime, urgențe medicale critice și orice incident în care întârzierea prezintă risc vital.
+
+[*][b]Code 4 — Scenă Securizată:[/b] Declarat de [b]Incident Commander[/b] la finalizarea intervenției. Indică faptul că scena este sub control, riscurile au fost eliminate și resursele suplimentare nu mai sunt necesare. Echipajele raportează [i]"Clear from scene, back in service"[/i] și revin pe Stația 712.
+[/list]
+
+[b]Terminologie generală:[/b]
+[list]
+[*][b]MCI (Mass Casualty Incident):[/b] Incident cu victime multiple care depășesc capacitatea de răspuns imediată. Necesită activarea planului MCI și solicitarea de resurse suplimentare.
+[*][b]Priority Traffic:[/b] Mesaj urgent care necesită liniște pe frecvență. Se anunță înainte de transmisie; celelalte unități suspendă comunicările.
+[*][b]Mayday:[/b] Semnal de urgență transmis de un pompier aflat în pericol iminent. Declanșează automat [b]Code 0[/b] și activarea [b]RIT (Rapid Intervention Team)[/b].
+[*][b]PAR (Personnel Accountability Report):[/b] Verificarea periodică a prezenței și stării întregului personal activ la scenă, solicitată de IC.
 [/list]
 
 [size=130][b]19.09 Email-uri și Scrisori Departamentale[/b][/size]
@@ -361,13 +415,54 @@ Vizitatorii trebuie întâmpinați cu politețe și escortați. Nu au voie să u
 [size=130][b]20.05 Înregistrări și Ordine[/b][/size]
 Nu se completează documentație (rapoarte) în timp ce echipajul este pe o scenă activă. Toate rapoartele se fac după încheierea incidentului ("Clear from scene").
 
-[size=130][b]20.06 Asignări Stație și Poziții Apparatus[/b][/size]
-Fiecare vehicul are un loc desemnat în garaj ([b]Bay[/b]).
-[b]Station 11 Bay Assignments:[/b]
+[size=130][b]20.06 Callsign-uri si Apparatus[/b][/size]
+
+Fiecare unitate operationala a Departamentului are un callsign unic, utilizat exclusiv pe radio si in rapoartele de incident. Callsign-ul identifica stația, rolul unitatii si numarul individual al vehiculului.
+
+[b]Legenda prefixelor:[/b]
 [list]
-[*]Bay 3/4: [b]Rescue Ambulance (RA)[/b]
-[*]Bay 7/8: [b]Engine (E)[/b]
-[*]Bay 6: [b]Truck (T)[/b]
+[*][b]RA##[/b] — Rescue Ambulance (ALS)
+[*][b]E##[/b] — Engine
+[*][b]R##[/b] — Rescue
+[*][b]SQ##[/b] — Squad
+[*][b]FR##[/b] — First Response
+[*][b]LS##[/b] — Line Supervisor (SUV)
+[*][b]BU##[/b] — Battalion Unit
+[*][b]CU##[/b] — Command Unit
+[*][b]FC#[/b] — Fire Chief
+[/list]
+
+[b]Ierarhia de comanda vehicule:[/b] [b]LS[/b] (Supervisor SUV) → [b]BU[/b] (Battalion) → [b]CU[/b] (Command) → [b]FC[/b] (Fire Chief)
+
+[hr][/hr]
+
+[b]Fire Station 3 — Davis[/b]
+[list]
+[*][b]RA310, RA311, RA312[/b] — Rescue Ambulance (ALS)
+[*][b]E318, E319[/b] — Engine
+[*][b]FR325[/b] — First Response
+[*][b]LS31[/b] — Line Supervisor
+[*][b]CU31[/b] — Command Unit
+[/list]
+
+[b]Fire Station 132 — Marina[/b]
+[list]
+[*][b]RA111[/b] — Rescue Ambulance (ALS)
+[*][b]E125[/b] — Engine
+[*][b]CU11[/b] — Command Unit
+[/list]
+
+[b]Fire Station 72 — El Burro[/b]
+[list]
+[*][b]RA710 — RA730[/b] — Rescue Ambulance (ALS)
+[*][b]FR750 — FR760[/b] — First Response
+[*][b]E760 — E770[/b] — Engine
+[*][b]R785, R787[/b] — Rescue
+[*][b]SQ795, SQ797[/b] — Squad
+[*][b]LS71, LS72[/b] — Line Supervisor
+[*][b]BU71, BU72[/b] — Battalion Unit
+[*][b]CU71, CU72[/b] — Command Unit
+[*][b]FC1[/b] — Fire Chief
 [/list]
 
 [size=130][b]20.07 Îndatoriri Stație[/b][/size]
@@ -402,5 +497,4 @@ Personalul trebuie să aștepte la stație pentru alocarea apelurilor. Echipajel
 [*][b]Medical Incidents:[/b] Se trimite o [b]Rescue Ambulance[/b] și, dacă este disponibil, un [b]Engine[/b] pentru suport (manpower) și un [b]Medical Supervisor[/b].
 [*][b]Fire Incidents:[/b] Se trimit [b]Engines[/b] și [b]Trucks[/b] conform deciziei [b]Incident Commander[/b]-ului, plus cel puțin o [b]Rescue Ambulance[/b] pentru siguranța pompierilor ("Standby").
 [/list][/birou]
-[/quote]
 

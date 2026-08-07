@@ -1,4 +1,4 @@
-[birou= MANUAL OF OPERATIONS (MOP) white]
+﻿[birou= MANUAL OF OPERATIONS (MOP) white]
 
 [size=150][b]CAPITOLUL 1: INTRODUCERE[/b][/size]
 
@@ -17,12 +17,12 @@ O citire periodică a acestor documente este recomandată pentru a asigura reți
 Valorile fundamentale ale Departamentului sunt cunoscute prin acronimul [b]SPIRIT[/b] și sunt după cum urmează:
 
 [list]
-[*][b]Service[/b] — Dedicație completă față de Comunitatea pe care o servim.
-[*][b]Professionalism[/b] — Onorarea [b]Firefighter Oath[/b] prin competență și excelență.
-[*][b]Integrity[/b] — Respectarea conduitei morale și etice în permanență.
-[*][b]Respect[/b] — Aprecierea diversității și recunoașterea valorii fiecărui individ.
-[*][b]Innovation[/b] — Asumarea riscurilor creative pentru adaptare și îmbunătățire.
-[*][b]Trust[/b] — Încredere în integritatea, puterea și capacitatea membrilor noștri.
+[*][b]Service[/b] - Dedicație completă față de Comunitatea pe care o servim.
+[*][b]Professionalism[/b] - Onorarea [b]Firefighter Oath[/b] prin competență și excelență.
+[*][b]Integrity[/b] - Respectarea conduitei morale și etice în permanență.
+[*][b]Respect[/b] - Aprecierea diversității și recunoașterea valorii fiecărui individ.
+[*][b]Innovation[/b] - Asumarea riscurilor creative pentru adaptare și îmbunătățire.
+[*][b]Trust[/b] - Încredere în integritatea, puterea și capacitatea membrilor noștri.
 [/list]
 
 [size=130][b]1.05 Principii de Operare[/b][/size]
@@ -174,7 +174,7 @@ Specialistul în îngrijire medicală avansată. Acest rank se obține după [b]
 
 [b]Responsabilități:[/b] Lider medical la scenele de urgență, administrează medicamente (IV/IO), efectuează management avansat al căilor respiratorii (intubație), monitorizare cardiacă și interpretare EKG. Supervizează activitatea membrilor cu certificare [b]BLS[/b] la scenă. Poate servi ca [b]Division Lead[/b] pentru divizii medicale sau operaționale.
 
-Cerinte pentru avansare: Minim 6 luni ca Firefighter, obținerea Emergency Medical Technician (EMT), Field Medic, și Advanced Life Support (ALS) — Critical Care Provider.
+Cerinte pentru avansare: Minim 6 luni ca Firefighter, obținerea Emergency Medical Technician (EMT), Field Medic, și Advanced Life Support (ALS) - Critical Care Provider.
 [list]
 [*][b]Nivel Autoritate:[/b] Personal de Teren
 [*][b]Tip Poziție:[/b] Fire-sworn
@@ -401,6 +401,18 @@ Calificări specifice pentru [b]Division 7, 8[/b].
 [*][b]Supply & Logistics Officer:[/b] Gestiunea stocurilor și achiziții.
 [/list]
 
+[size=130][b]5.11 Cum se Obțin Calificările[/b][/size]
+Procesul de obținere a oricărei calificări este coordonat de [b]Division 6: Training & Professional Development[/b], conform pașilor de mai jos:
+
+[list=1]
+[*]Membrul contactează [b]Division 6: Training & Professional Development[/b] și exprimă interesul pentru o calificare specifică.
+[*][b]Division 6[/b] revizuiește eligibilitatea membrului (rank, calificări existente, timp în serviciu) și îl contactează cu detaliile complete: cerințe, program de instruire și metoda de evaluare.
+[*]Membrul parcurge procesul de instruire și evaluare stabilit de [b]Division 6[/b].
+[*]La finalizare, calificarea este înregistrată oficial de [b]Certification Officer[/b] din [b]Division 6[/b] și adăugată în dosarul de personal.
+[/list]
+
+[b]Notă:[/b] Unele calificări au cerințe prealabile (prerequisite). Verificați lista completă din secțiunile 5.02-5.10 și din [b]CALIFICARI Registry[/b] înainte de a contacta [b]Division 6[/b].
+
 [hr]
 
 [size=150][b]6. REGULAMENTE UNIFORME ȘI ASPECT[/b][/size]
@@ -579,15 +591,12 @@ Departamentul angajează un sistem proactiv care constă din două tipuri princi
 
 9.03.01 Cerințe de Progresie
 Avansarea necesită îndeplinirea unor perioade minime de timp (Time Served) și obținerea calificărilor specifice:
-[b]Probationary Firefighter → Firefighter:[/b] Completarea Field Training Program (FTP). Necesită Basic Life Support (BLS), Fire Suppression (Fire 1), Fire 2, Apparatus Driver, Vehicle Extrication, Rope Rescue.
-
-[b]Firefighter → Engineer:[/b] Minim 6 luni ca Firefighter, finalizarea Supervisor Training Program (STP). Necesită Interior Operations, Pump Operations, Fire 3, toate Specializările Tactice (cu excepția Incident Safety Officer și Operations Coordinator), și Incident Command System (ICS).
-[b]
-Firefighter → Paramedic: [/b]Minim 6 luni ca Firefighter. Necesită Emergency Medical Technician (EMT), Field Medic, și Advanced Life Support (ALS) — Critical Care Provider.
-
-[b]Engineer / Paramedic → Lieutenant:[/b] Minim 3 ani IC / 2 luni OOC, trecerea Promotional Exam. Necesită Field Training Officer (FTO), Operations Coordinator și Incident Safety Officer, plus specializarile Engineer si Paramedic
-
-[b]Lieutenant → Captain:[/b] Finalizarea Officer Training Program (OTP).
+[list]
+[*][b]Probationary Firefighter -> Firefighter:[/b] Completarea Field Training Program (FTP). Necesită Basic Life Support (BLS), Fire Suppression (Fire 1), Fire 2, Apparatus Driver, Vehicle Extrication, Rope Rescue.
+[*][b]Firefighter -> Engineer:[/b] Minim 6 luni ca Firefighter, finalizarea Supervisor Training Program (STP). Necesită Interior Operations, Pump Operations, Fire 3, toate Specializările Tactice (cu excepția Incident Safety Officer și Operations Coordinator), și Incident Command System (ICS).
+[*][b]Firefighter -> Paramedic:[/b] Minim 6 luni ca Firefighter. Necesită Emergency Medical Technician (EMT), Field Medic, și Advanced Life Support (ALS) - Critical Care Provider.
+[*][b]Engineer / Paramedic -> Lieutenant:[/b] Minim 3 ani IC / 2 luni OOC, trecerea Promotional Exam. Necesită Field Training Officer (FTO), Operations Coordinator și Incident Safety Officer, plus specializările Engineer și Paramedic.
+[*][b]Lieutenant -> Captain:[/b] Finalizarea Officer Training Program (OTP).
 [/list]
 
 [b]9.03.02 Promovări Officer[/b]
@@ -740,6 +749,43 @@ Monitorizează scena pentru pericole ([b]Hazards[/b]), menține [b]Accountabilit
 [b]Operations Coordinator[/b]
 Gestionează alocarea resurselor ([b]Resource Allocation[/b]) și comunicațiile radio la incidente majore, asistând [b]Incident Commander[/b]-ul cu planificarea tactică.
 
+[size=130][b]10.04 Incident Commander — Desemnare și Autoritate[/b][/size]
+
+Fiecare intervenție activă are un singur [b]Incident Commander (IC)[/b] desemnat la un moment dat. IC deține autoritatea operațională completă asupra scenei și a tuturor echipajelor prezente, indiferent de aparatul sau divizia din care provin.
+
+[b]10.04.01 Desemnarea IC[/b]
+
+[list=1]
+[*][b]Regula generală:[/b] IC este, implicit, cel mai mare rank prezent la scenă. Primul echipaj sosit preia IC până la sosirea unui officer superior.
+
+[*][b]Excepție — Incidente specializate:[/b] Dacă scena impune calificări specifice (ex: Hazmat, Water Rescue, USAR, Structural Collapse), IC este cel mai mare rank prezent care deține calificările necesare acelui tip de incident. Un [b]Captain[/b] fără calificarea [b]Hazmat Operations[/b] nu poate fi IC la o scenă Hazmat; în schimb, un [b]Engineer[/b] cu [b]TIER III[/b] în [b]Division 2: HSOD - Hazmat, Special Operations & Disaster Response[/b] preia IC pentru acel incident specific.
+
+[*][b]Predarea IC (Transfer of Command):[/b] Când sosește un officer cu rank superior și cu calificările necesare, IC se transferă. Transferul se anunță explicit pe canal principal înainte de efectuare: [i]"Transfer of Command towards [Rank] [Prenume] [Nume], [Rank] [Prenume] [Nume] has Command."[/i] Noul IC confirmă preluarea pe același canal.
+[/list]
+
+[b]10.04.02 Autoritatea și Prioritatea IC pe Canal[/b]
+
+[list]
+[*][b]Prioritate absolută:[/b] IC are prioritate absolută pe canalul principal de Dispatch ([b]Stația 712[/b]). Nicio altă transmisie nu întrerupe IC, cu excepția unui [b]Code 0[/b] sau a unui [b]Mayday[/b].
+
+[*][b]Sectorizarea comunicațiilor:[/b] IC poate redirecta echipaje sau grupuri pe canalele tactice dedicate incidentelor: [b]Stația 713 (IC1 / TAC1)[/b] sau [b]Stația 714 (IC2 / TAC2)[/b]. Această decizie se ia când incidentul crește în complexitate și traficul radio pe 712 devine supraîncărcat.
+
+[*][b]Subordonare:[/b] Toate transmisiile de pe canalele 713 și 714 sunt subordonate IC principal de pe 712. Ofițerii care coordonează un sector pe TAC1 sau TAC2 raportează periodic situația către IC principal.
+
+[*][b]Revenirea pe 712:[/b] La încheierea incidentului sau la ordinul IC, echipajele revin pe canalul principal 712 și raportează [i]"Clear from scene, back in service."[/i]
+[/list]
+
+[b]10.04.03 Responsabilitățile IC la Scenă[/b]
+
+[list]
+[*]Preia comanda și anunță scenei pe 712: [i]"[Rank] [Prenume] [Nume] has Command at [Locație]."[/i]
+[*]Evaluează scena, stabilește strategia (ofensivă sau defensivă) și comunică obiectivele tactice.
+[*]Alocă resursele și sectorizează incidentul dacă este necesar.
+[*]Menține [b]Accountability[/b] (evidența personalului în zonele active).
+[*]Solicită resurse suplimentare prin Dispatch ([b]Stația 712[/b]) dacă situația o impune.
+[*]Declară [b]Code 4[/b] când scena este securizată și raportează situația finală.
+[/list]
+
 [hr]
 
 [size=150][b]11. DIVISION 2: HAZMAT, SPECIAL OPERATIONS & DISASTER RESPONSE[/b][/size]
@@ -753,7 +799,7 @@ Avansarea se face prin acumularea calificărilor:
 [*][b]TIER 1 (Entry):[/b] Decontamination Specialist (necesită [b]Hazmat Operations[/b]).
 [*][b]TIER 2 (Technician):[/b] Hazmat Entry Technician (necesită [b]Hazmat Technician[/b]).
 [*][b]TIER 3 (Advanced):[/b] CBRN Response Officer.
-[*][b]TIER 4: Division Lead[/b] — Deține toate calificările și poate fi numit [b]HSOD Coordinator[/b] de către [b]Bureau Commander[/b].
+[*][b]TIER 4: Division Lead[/b] - Deține toate calificările și poate fi numit [b]HSOD Coordinator[/b] de către [b]Bureau Commander[/b].
 [/list]
 
 [size=130][b]11.03 Poziții și Calificări[/b][/size]
