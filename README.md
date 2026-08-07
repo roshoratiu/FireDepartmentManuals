@@ -1,5 +1,13 @@
 ﻿# FireDepartmentManuals
 
+## License
+
+This repository is proprietary and all rights are reserved by Horatiu-Gabriel
+Ros, GitHub username `roshoratiu`. No use, copying, redistribution,
+modification, reposting, mirroring, AI training, or publication is permitted
+without explicit prior written permission. Unauthorized copies or reposts must be
+taken down. See [LICENSE.md](LICENSE.md).
+
 Acest repository contine documentatia operationala pentru o factiune de tip
 Los Santos Fire Department. Fisierele sunt scrise in romana si folosesc in mare
 parte format BBCode/forum (`[birou]`, `[size]`, `[b]`, `[list]`, `[spoiler]`,
